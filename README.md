@@ -1,78 +1,77 @@
-# PaliGemma 2 ile Türkçe Sahne Metni OCR Deneyi
+# Turkish Scene Text OCR Experiment with PaliGemma 2
 
-PaliGemma 2 (3B, `mix`) modelinin Türkçe sahne metnini (tabela, fiş, ambalaj, uyarı levhası vb.) ne kadar doğru okuduğunu; çözünürlüğün (224px / 448px) ve prompt biçiminin (`ocr`, Türkçe soru, İngilizce soru) sonucu nasıl etkilediğini inceleyen küçük ölçekli bir deney.
+A small-scale experiment investigating how accurately the PaliGemma 2 (3B, `mix`) model reads Turkish scene text (signboards, receipts, packaging, warning signs, etc.), and how resolution (224px / 448px) as well as prompt style (`ocr`, Turkish question, English question) affect the results.
 
-Ayrıntılı analiz ve eleştirel değerlendirme için bkz. [`docs/PALIGEMMA_2_rapor.docx`](docs/PALIGEMMA_2_rapor.docx).
+For detailed analysis and critical evaluation, see [`docs/PALIGEMMA_2_rapor.docx`](docs/PALIGEMMA_2_rapor.docx).
 
-## Araştırma soruları
+## Research questions
 
-- PaliGemma 2'nin Türkçe sahne metnini tanıma (OCR) performansı nedir?
-- 224px ile 448px çözünürlük arasında fark var mı, varsa ne kadar?
-- Prompt biçimi (doğrudan `ocr` komutu vs. soru formatı) sonucu değiştiriyor mu?
-- Model harfleri doğru okuyup Türkçe aksanları (ş, ğ, ı, ç, ö, ü) kaçırıyor mu?
+- What is PaliGemma 2's performance in recognizing Turkish scene text (OCR)?
+- Is there a difference between 224px and 448px resolution, and if so, how much?
+- Does the prompt style (direct `ocr` command vs. question format) change the outcome?
+- Does the model correctly identify letters while missing Turkish accents (ş, ğ, ı, ç, ö, ü)?
 
-## Yöntem (özet)
+## Methodology (summary)
 
-- **Model:** `google/paligemma2-3b-mix-224` ve `google/paligemma2-3b-mix-448` (Hugging Face, gated — erişim onayı gerekir)
-- **Donanım:** Google Colab, T4 GPU; `float16` (T4 `bfloat16`'yı desteklemediği için; boş/bozuk çıktı olursa `float32`'ye düşülür)
-- **Veri seti:** 30 sahne görseli (tabela, fiş, ambalaj, uyarı levhası vb.), farklı font, ışık/yansıma ve silikleşme koşullarında; her görsel için elle yazılıp kontrol edilmiş ground-truth metin
-- **Koşullar:** 2 çözünürlük × 3 prompt = 6 koşul, toplamda 45 ana + 87 ikincil metin parçası üzerinden 792 parça-koşul ölçümü
-- **Metrikler** (`notebooks/paligemma2_ocr_deney.ipynb` içinde tanımlı):
-  - `tam_bulundu`: parça, model çıktısında birebir (büyük/küçük harf ve noktalama göz ardı edilerek, İ/I ve ı/i farkı korunarak) geçiyor mu
-  - `aksansiz_bulundu`: aynı kontrol, Türkçe aksanlar (ç/ğ/ı/ö/ş/ü → c/g/i/o/s/u) sadeleştirilerek
-  - `hata_orani`: parçanın çıktı içindeki en iyi eşleşen konumla arasındaki karakter düzeyinde düzenleme mesafesi, parça uzunluğuna bölünmüş
+- **Model:** `google/paligemma2-3b-mix-224` and `google/paligemma2-3b-mix-448` (Hugging Face, gated — requires access approval)
+- **Hardware:** Google Colab, T4 GPU; `float16` (since T4 does not support `bfloat16`; falls back to `float32` if output is empty/corrupted)
+- **Dataset:** 30 scene images (signboards, receipts, packaging, warning signs, etc.) under varying font, light/reflection, and degradation conditions; includes hand-written and verified ground-truth text for each image
+- **Conditions:** 2 resolutions × 3 prompts = 6 conditions, with a total of 792 text-segment-condition measurements evaluated across 45 primary and 87 secondary text segments
+- **Metrics** (defined in `notebooks/paligemma2_ocr_deney.ipynb`):
+  - `tam_bulundu`: whether the segment appears verbatim in the model output (ignoring case and punctuation, while preserving İ/I and ı/i distinctions)
+  - `aksansiz_bulundu`: same check, but with Turkish accents (ç/ğ/ı/ö/ş/ü → c/g/i/o/s/u) simplified
+  - `hata_orani`: character-level edit distance between the segment and its best-matching position in the output, divided by segment length
 
-## Önemli bulgular
+## Key findings
 
 | | 224px | 448px |
 |---|---|---|
-| Ana metin, `ocr` promptu, aksansız eşleşme | %53.3 | %82.2 |
-| İkincil metin, `ocr` promptu, aksansız eşleşme | %23.0 | %65.5 |
+| Primary text, `ocr` prompt, accentless match | 53.3% | 82.2% |
+| Secondary text, `ocr` prompt, accentless match | 23.0% | 65.5% |
 
-- 448px çözünürlük, özellikle küçük/ikincil metinlerde belirgin bir iyileşme sağlıyor; ancak etki 30 görselin tamamında tutarlı değil (18 görselde iyileşme, 11'inde değişim yok, 1'inde gerileme).
-- Doğrudan `ocr` promptu, soru formatındaki promptlardan (`tr_soru`, `en_soru`) her koşulda daha iyi sonuç veriyor.
-- Modelin harfleri doğru okuyup Türkçe aksanları atladığı durumlar var; bu fark tüm prompt biçimlerinde gözlemleniyor.
-- `ocr` promptunda bazı görsellerde (60 görsel-çözünürlük denemesinden 12'si) model aynı kelime/satırı onlarca kez tekrarlayarak üretim süresine takılıyor — kullanılan eşleşme metriği bu tekrar döngülerini her zaman hata olarak yakalamıyor.
+- The 448px resolution provides a significant improvement, especially on small/secondary text; however, the effect is not uniform across all 30 images (improvement in 18 images, no change in 11, regression in 1).
+- The direct `ocr` prompt performs better across all conditions compared to question-formatted prompts (`tr_soru`, `en_soru`).
+- Instances occur where the model identifies characters correctly but misses Turkish accents; this behavior is observed across all prompt styles.
+- Under the `ocr` prompt in certain images (12 out of 60 image-resolution trials), the model enters a repetitive loop by outputting the same word/line dozens of times until hitting generation limits — the evaluation metric used does not always capture these repetition loops as errors.
 
-Tüm sayılar ve tartışma için rapora bakın. Bu, 30 görsellik küçük bir deney; genel bir Türkçe OCR başarım iddiası değildir.
+ ## Repository structure
 
-## Depo yapısı
-
-```
-.
-├── notebooks/
-│   └── paligemma2_ocr_deney.ipynb   # Colab notebook: model çalıştırma + ölçüm
-├── data/
-│   ├── veriseti/                    # (depoda yok, bkz. data/README.md)
-│   └── results/
-│       ├── sonuclar.csv             # modelin ham çıktıları
-│       ├── skorlar_parca.csv        # parça bazlı ham skorlar
-│       └── ozet.csv                 # tur × çözünürlük × prompt özeti
-├── docs/
-│   └── PALIGEMMA_2_rapor.docx       # tam analiz ve rapor
-├── requirements.txt
-└── LICENSE
+```text
+ .
++-- notebooks/
+|   +-- paligemma2_ocr_deney.ipynb   # Colab notebook: model execution + evaluation
++-- data/
+|   +-- results/
+|       +-- sonuclar.csv             # Raw model outputs
+|       +-- skorlar_parca.csv        # Segment-level raw scores
+|       +-- ozet.csv                 # Type x resolution x prompt summary
++-- requirements.txt
++-- LICENSE
 ```
 
-## Çalıştırma
+## How to run
 
-1. Google Colab'da `notebooks/paligemma2_ocr_deney.ipynb` dosyasını açın, çalışma zamanını **T4 GPU** yapın.
-2. Hugging Face'te `google/paligemma2-3b-mix-224` ve `google/paligemma2-3b-mix-448` sayfalarındaki lisansı kabul edin.
-3. Hugging Face *read* token'ınızı Colab Secrets'a `HF_TOKEN` adıyla ekleyin.
-4. `veriseti.zip` dosyasını (görseller + `manifest.csv`, bkz. [`data/README.md`](data/README.md)) Colab'a yükleyin.
-5. Hücreleri sırayla çalıştırın. Çıktılar `sonuclar.csv`, `skorlar_parca.csv`, `ozet.csv` olarak kaydedilir.
+1. Open `notebooks/paligemma2_ocr_deney.ipynb` in Google Colab and set the runtime to **T4 GPU**.
+2. Accept the terms on the `google/paligemma2-3b-mix-224` and `google/paligemma2-3b-mix-448` model pages on Hugging Face.
+3. Add your Hugging Face *read* token to Colab Secrets under the name `HF_TOKEN`.
+4. Upload `veriseti.zip` (images + `manifest.csv`, see [`data/README.md`](data/README.md)) to Colab.
+5. Run the cells sequentially. Outputs will be saved as `sonuclar.csv`, `skorlar_parca.csv`, and `ozet.csv`.
 
-Yerelde çalıştırmak isterseniz: `pip install -r requirements.txt` yeterli bağımlılıkları kurar; GPU önerilir.
+To run locally: `pip install -r requirements.txt` will install the necessary dependencies; GPU is recommended.
 
-## Veri seti hakkında
+## About the dataset
 
-Görseller ve `manifest.csv` bu depoya dahil değildir (bkz. [`data/README.md`](data/README.md)). `data/results/` altındaki üç CSV, notebook'un bu veri seti üzerinde üretilen çıktılarıdır ve doğrudan paylaşılabilir.
+Images and `manifest.csv` are not included in this repository (see [`data/README.md`](data/README.md)). The three CSV files under `data/results/` are generated by running the notebook on this dataset and can be shared directly.
 
-## Kaynakça
+## References
 
 - Beyer, L., Zhai, X., Steiner, A., Wang, X., Tschannen, M., & Houlsby, N. (2024). *PaliGemma 2: A Family of Versatile VLMs for Transfer*. arXiv:2412.03555.
 - Gemma Team, Google DeepMind. (2024). *Gemma 2: Improving Open Language Models at Scale*. arXiv:2408.00118.
 
-## Lisans
+## License
 
-Kod [MIT Lisansı](LICENSE) ile paylaşılmıştır. Rapor ve deney verileri (`docs/`, `data/results/`) için depo sahibi ayrıca bir lisans belirtmediği sürece tüm hakları saklıdır.
+Code is distributed under the [MIT License](LICENSE). Unless stated otherwise by the repository owner, all rights are reserved for the report and experimental data (`docs/`, `data/results/`).
+
+For full statistics and discussion, refer to the report. Note th
+
+at this is a small-scale experiment with 30 images and does not 
