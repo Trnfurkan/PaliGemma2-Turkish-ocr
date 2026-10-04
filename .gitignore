@@ -1,0 +1,15 @@
+# Veri seti (görseller ayrı paylaşılır, bkz. data/README.md)
+data/veriseti/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ortam / secrets
+.env
+*.token
+
+# OS
+.DS_Store

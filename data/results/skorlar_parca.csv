@@ -1,0 +1,793 @@
+﻿cozunurluk,prompt,dosya,tur,parca,tam_bulundu,aksansiz_bulundu,hata_orani
+224,ocr,sahne_01_cikartma.png,ana,Onun Hevesi Bitti,False,False,0.059
+224,ocr,sahne_01_cikartma.png,ikincil,Benimde Nefesim,False,False,0.667
+224,tr_soru,sahne_01_cikartma.png,ana,Onun Hevesi Bitti,False,False,0.118
+224,tr_soru,sahne_01_cikartma.png,ikincil,Benimde Nefesim,False,False,0.667
+224,en_soru,sahne_01_cikartma.png,ana,Onun Hevesi Bitti,False,False,0.118
+224,en_soru,sahne_01_cikartma.png,ikincil,Benimde Nefesim,False,False,0.667
+224,ocr,sahne_02_terzi_abit_kurt.png,ana,TERZİ,False,True,0.2
+224,ocr,sahne_02_terzi_abit_kurt.png,ikincil,ABİT KURT,True,True,0.0
+224,tr_soru,sahne_02_terzi_abit_kurt.png,ana,TERZİ,True,True,0.0
+224,tr_soru,sahne_02_terzi_abit_kurt.png,ikincil,ABİT KURT,True,True,0.0
+224,en_soru,sahne_02_terzi_abit_kurt.png,ana,TERZİ,True,True,0.0
+224,en_soru,sahne_02_terzi_abit_kurt.png,ikincil,ABİT KURT,False,False,0.778
+224,ocr,sahne_03_sunar_kayali.png,ana,Sunar & Kayalı,False,True,0.083
+224,ocr,sahne_03_sunar_kayali.png,ikincil,1967'DEN BERİ,False,False,0.308
+224,ocr,sahne_03_sunar_kayali.png,ikincil,ZAMANSIZ TASARIM • YÜKSEK KALİTE,False,True,0.033
+224,tr_soru,sahne_03_sunar_kayali.png,ana,Sunar & Kayalı,False,True,0.083
+224,tr_soru,sahne_03_sunar_kayali.png,ikincil,1967'DEN BERİ,False,False,0.846
+224,tr_soru,sahne_03_sunar_kayali.png,ikincil,ZAMANSIZ TASARIM • YÜKSEK KALİTE,False,False,0.733
+224,en_soru,sahne_03_sunar_kayali.png,ana,Sunar & Kayalı,False,True,0.083
+224,en_soru,sahne_03_sunar_kayali.png,ikincil,1967'DEN BERİ,False,False,0.846
+224,en_soru,sahne_03_sunar_kayali.png,ikincil,ZAMANSIZ TASARIM • YÜKSEK KALİTE,False,False,0.733
+224,ocr,sahne_04_carsi_reklam.png,ana,çarşı reklam,True,True,0.0
+224,ocr,sahne_04_carsi_reklam.png,ikincil,Doğru Mecrada Doğru Reklam Kazandırır,False,False,0.108
+224,ocr,sahne_04_carsi_reklam.png,ikincil,Bize en yakın Çarşı,True,True,0.0
+224,tr_soru,sahne_04_carsi_reklam.png,ana,çarşı reklam,False,False,0.333
+224,tr_soru,sahne_04_carsi_reklam.png,ikincil,Doğru Mecrada Doğru Reklam Kazandırır,False,False,0.108
+224,tr_soru,sahne_04_carsi_reklam.png,ikincil,Bize en yakın Çarşı,False,False,0.737
+224,en_soru,sahne_04_carsi_reklam.png,ana,çarşı reklam,False,True,0.25
+224,en_soru,sahne_04_carsi_reklam.png,ikincil,Doğru Mecrada Doğru Reklam Kazandırır,False,False,0.054
+224,en_soru,sahne_04_carsi_reklam.png,ikincil,Bize en yakın Çarşı,False,False,0.684
+224,ocr,sahne_05_dadas_doner.png,ana,DADAŞ DÖNER,False,True,0.182
+224,ocr,sahne_05_dadas_doner.png,ikincil,ODUN ATEŞİNDE LEZZET,True,True,0.0
+224,ocr,sahne_05_dadas_doner.png,ikincil,TEL: 0530 610 9806,False,False,0.294
+224,tr_soru,sahne_05_dadas_doner.png,ana,DADAŞ DÖNER,False,True,0.182
+224,tr_soru,sahne_05_dadas_doner.png,ikincil,ODUN ATEŞİNDE LEZZET,False,False,0.8
+224,tr_soru,sahne_05_dadas_doner.png,ikincil,TEL: 0530 610 9806,False,False,0.941
+224,en_soru,sahne_05_dadas_doner.png,ana,DADAŞ DÖNER,False,True,0.182
+224,en_soru,sahne_05_dadas_doner.png,ikincil,ODUN ATEŞİNDE LEZZET,False,False,0.8
+224,en_soru,sahne_05_dadas_doner.png,ikincil,TEL: 0530 610 9806,False,False,0.941
+224,ocr,sahne_06_koksal_baba.png,ana,KÖKSAL BABA STORE,True,True,0.0
+224,tr_soru,sahne_06_koksal_baba.png,ana,KÖKSAL BABA STORE,False,True,0.059
+224,en_soru,sahne_06_koksal_baba.png,ana,KÖKSAL BABA STORE,False,True,0.059
+224,ocr,sahne_07_kahvehane_gece.png,ana,KAHVEHANESİ,True,True,0.0
+224,ocr,sahne_07_kahvehane_gece.png,ikincil,BİLARDO SALONU,False,False,0.714
+224,tr_soru,sahne_07_kahvehane_gece.png,ana,KAHVEHANESİ,False,False,0.636
+224,tr_soru,sahne_07_kahvehane_gece.png,ikincil,BİLARDO SALONU,False,False,0.643
+224,en_soru,sahne_07_kahvehane_gece.png,ana,KAHVEHANESİ,False,False,0.273
+224,en_soru,sahne_07_kahvehane_gece.png,ikincil,BİLARDO SALONU,False,False,0.786
+224,ocr,sahne_08_emek_yufkacisi.png,ana,EMEK YUFKACISI,False,False,0.357
+224,ocr,sahne_08_emek_yufkacisi.png,ikincil,HOŞ GELDİNİZ,False,False,0.833
+224,tr_soru,sahne_08_emek_yufkacisi.png,ana,EMEK YUFKACISI,False,False,0.714
+224,tr_soru,sahne_08_emek_yufkacisi.png,ikincil,HOŞ GELDİNİZ,False,False,0.667
+224,en_soru,sahne_08_emek_yufkacisi.png,ana,EMEK YUFKACISI,False,False,0.5
+224,en_soru,sahne_08_emek_yufkacisi.png,ikincil,HOŞ GELDİNİZ,False,False,0.75
+224,ocr,sahne_10_mostarpark.png,ana,MOSTARPARK,True,True,0.0
+224,ocr,sahne_10_mostarpark.png,ikincil,SOSYAL TESİSLERİ,False,False,0.188
+224,ocr,sahne_10_mostarpark.png,ikincil,BELEDİYESİ,True,True,0.0
+224,tr_soru,sahne_10_mostarpark.png,ana,MOSTARPARK,True,True,0.0
+224,tr_soru,sahne_10_mostarpark.png,ikincil,SOSYAL TESİSLERİ,False,False,0.75
+224,tr_soru,sahne_10_mostarpark.png,ikincil,BELEDİYESİ,False,False,0.9
+224,en_soru,sahne_10_mostarpark.png,ana,MOSTARPARK,True,True,0.0
+224,en_soru,sahne_10_mostarpark.png,ikincil,SOSYAL TESİSLERİ,False,False,0.75
+224,en_soru,sahne_10_mostarpark.png,ikincil,BELEDİYESİ,False,False,0.9
+224,ocr,sahne_11_agaoglu_gece.png,ana,AĞAOĞLU,False,False,0.429
+224,ocr,sahne_11_agaoglu_gece.png,ikincil,YAPI DEKORASYON,False,False,0.133
+224,ocr,sahne_11_agaoglu_gece.png,ikincil,MOBİLYA DEKORASYON,True,True,0.0
+224,ocr,sahne_11_agaoglu_gece.png,ikincil,MUTFAK DOLABI,False,False,0.462
+224,ocr,sahne_11_agaoglu_gece.png,ikincil,BANYO DOLABI,False,False,0.5
+224,ocr,sahne_11_agaoglu_gece.png,ikincil,YATAK ODASI,False,False,0.091
+224,ocr,sahne_11_agaoglu_gece.png,ikincil,PORTMANTO-RAY DOLAP,False,False,0.526
+224,ocr,sahne_11_agaoglu_gece.png,ikincil,0 532 273 50 00,False,False,0.067
+224,tr_soru,sahne_11_agaoglu_gece.png,ana,AĞAOĞLU,False,False,0.714
+224,tr_soru,sahne_11_agaoglu_gece.png,ikincil,YAPI DEKORASYON,False,False,0.733
+224,tr_soru,sahne_11_agaoglu_gece.png,ikincil,MOBİLYA DEKORASYON,False,False,0.722
+224,tr_soru,sahne_11_agaoglu_gece.png,ikincil,MUTFAK DOLABI,False,False,0.769
+224,tr_soru,sahne_11_agaoglu_gece.png,ikincil,BANYO DOLABI,False,False,0.75
+224,tr_soru,sahne_11_agaoglu_gece.png,ikincil,YATAK ODASI,False,False,0.727
+224,tr_soru,sahne_11_agaoglu_gece.png,ikincil,PORTMANTO-RAY DOLAP,False,False,0.737
+224,tr_soru,sahne_11_agaoglu_gece.png,ikincil,0 532 273 50 00,False,False,0.867
+224,en_soru,sahne_11_agaoglu_gece.png,ana,AĞAOĞLU,False,False,0.714
+224,en_soru,sahne_11_agaoglu_gece.png,ikincil,YAPI DEKORASYON,False,False,0.733
+224,en_soru,sahne_11_agaoglu_gece.png,ikincil,MOBİLYA DEKORASYON,False,False,0.833
+224,en_soru,sahne_11_agaoglu_gece.png,ikincil,MUTFAK DOLABI,False,False,0.692
+224,en_soru,sahne_11_agaoglu_gece.png,ikincil,BANYO DOLABI,False,False,0.667
+224,en_soru,sahne_11_agaoglu_gece.png,ikincil,YATAK ODASI,False,False,0.818
+224,en_soru,sahne_11_agaoglu_gece.png,ikincil,PORTMANTO-RAY DOLAP,False,False,0.737
+224,en_soru,sahne_11_agaoglu_gece.png,ikincil,0 532 273 50 00,False,False,1.0
+224,ocr,sahne_12_vefa_ikram.png,ana,VEFA İKRAM,True,True,0.0
+224,ocr,sahne_12_vefa_ikram.png,ikincil,ÇİĞ KÖFTE,False,False,0.111
+224,tr_soru,sahne_12_vefa_ikram.png,ana,VEFA İKRAM,True,True,0.0
+224,tr_soru,sahne_12_vefa_ikram.png,ikincil,ÇİĞ KÖFTE,False,False,0.444
+224,en_soru,sahne_12_vefa_ikram.png,ana,VEFA İKRAM,True,True,0.0
+224,en_soru,sahne_12_vefa_ikram.png,ikincil,ÇİĞ KÖFTE,False,False,0.778
+224,ocr,sahne_13_celebioglu_ap.png,ana,Çelebioğlu Ap.,False,False,1.0
+224,ocr,sahne_13_celebioglu_ap.png,ikincil,20,True,True,0.0
+224,tr_soru,sahne_13_celebioglu_ap.png,ana,Çelebioğlu Ap.,False,False,0.385
+224,tr_soru,sahne_13_celebioglu_ap.png,ikincil,20,True,True,0.0
+224,en_soru,sahne_13_celebioglu_ap.png,ana,Çelebioğlu Ap.,False,False,0.308
+224,en_soru,sahne_13_celebioglu_ap.png,ikincil,20,True,True,0.0
+224,ocr,sahne_14_kurtulus_bakkal.png,ana,Kurtuluş,False,False,0.25
+224,ocr,sahne_14_kurtulus_bakkal.png,ikincil,BAKKALİYESİ VE KURU KAHVE,False,False,0.28
+224,tr_soru,sahne_14_kurtulus_bakkal.png,ana,Kurtuluş,False,False,0.75
+224,tr_soru,sahne_14_kurtulus_bakkal.png,ikincil,BAKKALİYESİ VE KURU KAHVE,False,False,0.76
+224,en_soru,sahne_14_kurtulus_bakkal.png,ana,Kurtuluş,False,False,0.25
+224,en_soru,sahne_14_kurtulus_bakkal.png,ikincil,BAKKALİYESİ VE KURU KAHVE,False,False,0.84
+224,ocr,sahne_15_sariyer_borekcisi.png,ana,SARIYER BÖREKÇİSİ,True,True,0.0
+224,tr_soru,sahne_15_sariyer_borekcisi.png,ana,SARIYER BÖREKÇİSİ,False,True,0.118
+224,en_soru,sahne_15_sariyer_borekcisi.png,ana,SARIYER BÖREKÇİSİ,False,True,0.118
+224,ocr,sahne_17_hanturk_anadolu.png,ana,DENİZLİ'NİN EN PRESTİJLİ PROJESİ,False,False,0.031
+224,ocr,sahne_17_hanturk_anadolu.png,ana,ANADOLU İNCİSİ,False,False,0.214
+224,ocr,sahne_17_hanturk_anadolu.png,ana,başlıyor,False,False,0.375
+224,ocr,sahne_17_hanturk_anadolu.png,ikincil,HANTÜRK GAYRİMENKUL,False,False,0.105
+224,ocr,sahne_17_hanturk_anadolu.png,ikincil,Satış Temsilcisi,False,False,0.75
+224,ocr,sahne_17_hanturk_anadolu.png,ikincil,0532 262 19 17,False,False,0.143
+224,ocr,sahne_17_hanturk_anadolu.png,ikincil,ANADOLU İnşaat,False,False,0.286
+224,tr_soru,sahne_17_hanturk_anadolu.png,ana,DENİZLİ'NİN EN PRESTİJLİ PROJESİ,False,False,0.75
+224,tr_soru,sahne_17_hanturk_anadolu.png,ana,ANADOLU İNCİSİ,False,False,0.786
+224,tr_soru,sahne_17_hanturk_anadolu.png,ana,başlıyor,False,False,0.875
+224,tr_soru,sahne_17_hanturk_anadolu.png,ikincil,HANTÜRK GAYRİMENKUL,False,False,0.789
+224,tr_soru,sahne_17_hanturk_anadolu.png,ikincil,Satış Temsilcisi,False,False,0.75
+224,tr_soru,sahne_17_hanturk_anadolu.png,ikincil,0532 262 19 17,False,False,0.857
+224,tr_soru,sahne_17_hanturk_anadolu.png,ikincil,ANADOLU İnşaat,False,False,0.714
+224,en_soru,sahne_17_hanturk_anadolu.png,ana,DENİZLİ'NİN EN PRESTİJLİ PROJESİ,False,False,0.781
+224,en_soru,sahne_17_hanturk_anadolu.png,ana,ANADOLU İNCİSİ,False,False,0.786
+224,en_soru,sahne_17_hanturk_anadolu.png,ana,başlıyor,False,False,0.875
+224,en_soru,sahne_17_hanturk_anadolu.png,ikincil,HANTÜRK GAYRİMENKUL,False,False,0.842
+224,en_soru,sahne_17_hanturk_anadolu.png,ikincil,Satış Temsilcisi,False,False,0.812
+224,en_soru,sahne_17_hanturk_anadolu.png,ikincil,0532 262 19 17,False,False,1.0
+224,en_soru,sahne_17_hanturk_anadolu.png,ikincil,ANADOLU İnşaat,False,False,0.786
+224,ocr,sahne_19_gece_sehir_reklamlari.png,ana,LOVE SHOP,True,True,0.0
+224,ocr,sahne_19_gece_sehir_reklamlari.png,ana,SOYSAL,False,False,0.333
+224,ocr,sahne_19_gece_sehir_reklamlari.png,ana,Coca-Cola,True,True,0.0
+224,ocr,sahne_19_gece_sehir_reklamlari.png,ana,ÖZŞAHİN,False,False,0.429
+224,ocr,sahne_19_gece_sehir_reklamlari.png,ikincil,EPİLASYON GÜZELLİK,False,False,0.722
+224,ocr,sahne_19_gece_sehir_reklamlari.png,ikincil,LOCA Cafe·Restaurant,False,False,0.55
+224,ocr,sahne_19_gece_sehir_reklamlari.png,ikincil,Metro Alışveriş M…,False,False,0.706
+224,tr_soru,sahne_19_gece_sehir_reklamlari.png,ana,LOVE SHOP,True,True,0.0
+224,tr_soru,sahne_19_gece_sehir_reklamlari.png,ana,SOYSAL,False,False,0.833
+224,tr_soru,sahne_19_gece_sehir_reklamlari.png,ana,Coca-Cola,False,False,0.778
+224,tr_soru,sahne_19_gece_sehir_reklamlari.png,ana,ÖZŞAHİN,False,False,0.857
+224,tr_soru,sahne_19_gece_sehir_reklamlari.png,ikincil,EPİLASYON GÜZELLİK,False,False,0.833
+224,tr_soru,sahne_19_gece_sehir_reklamlari.png,ikincil,LOCA Cafe·Restaurant,False,False,0.75
+224,tr_soru,sahne_19_gece_sehir_reklamlari.png,ikincil,Metro Alışveriş M…,False,False,0.765
+224,en_soru,sahne_19_gece_sehir_reklamlari.png,ana,LOVE SHOP,True,True,0.0
+224,en_soru,sahne_19_gece_sehir_reklamlari.png,ana,SOYSAL,False,False,0.833
+224,en_soru,sahne_19_gece_sehir_reklamlari.png,ana,Coca-Cola,False,False,0.778
+224,en_soru,sahne_19_gece_sehir_reklamlari.png,ana,ÖZŞAHİN,False,False,0.857
+224,en_soru,sahne_19_gece_sehir_reklamlari.png,ikincil,EPİLASYON GÜZELLİK,False,False,0.833
+224,en_soru,sahne_19_gece_sehir_reklamlari.png,ikincil,LOCA Cafe·Restaurant,False,False,0.75
+224,en_soru,sahne_19_gece_sehir_reklamlari.png,ikincil,Metro Alışveriş M…,False,False,0.765
+224,ocr,sahne_21_donerus_avm.png,ana,Dönerus,True,True,0.0
+224,ocr,sahne_21_donerus_avm.png,ikincil,Doyumsuz Lezzet,False,False,0.667
+224,ocr,sahne_21_donerus_avm.png,ikincil,PİZZA,False,True,0.2
+224,tr_soru,sahne_21_donerus_avm.png,ana,Dönerus,False,True,0.143
+224,tr_soru,sahne_21_donerus_avm.png,ikincil,Doyumsuz Lezzet,False,False,0.8
+224,tr_soru,sahne_21_donerus_avm.png,ikincil,PİZZA,False,False,1.0
+224,en_soru,sahne_21_donerus_avm.png,ana,Dönerus,False,True,0.143
+224,en_soru,sahne_21_donerus_avm.png,ikincil,Doyumsuz Lezzet,False,False,0.8
+224,en_soru,sahne_21_donerus_avm.png,ikincil,PİZZA,False,False,1.0
+224,ocr,sahne_22_akilli_tahta_slayt.png,ana,DEPREMİN ŞİDDETİ,True,True,0.0
+224,ocr,sahne_22_akilli_tahta_slayt.png,ikincil,Açığa çıkan enerji miktarına,False,False,0.107
+224,ocr,sahne_22_akilli_tahta_slayt.png,ikincil,Odak derinliğine,False,False,0.438
+224,ocr,sahne_22_akilli_tahta_slayt.png,ikincil,Episantr uzaklığına,False,False,0.579
+224,ocr,sahne_22_akilli_tahta_slayt.png,ikincil,Jeolojik yapıya,False,False,0.4
+224,ocr,sahne_22_akilli_tahta_slayt.png,ikincil,Nüfus yoğunluğuna,False,False,0.235
+224,ocr,sahne_22_akilli_tahta_slayt.png,ikincil,Bina kalitesine,True,True,0.0
+224,ocr,sahne_22_akilli_tahta_slayt.png,ikincil,Deprem süresine,True,True,0.0
+224,ocr,sahne_22_akilli_tahta_slayt.png,ikincil,Nerede baraj yapıldıysa orada deprem riski artmıştır.,False,False,0.654
+224,tr_soru,sahne_22_akilli_tahta_slayt.png,ana,DEPREMİN ŞİDDETİ,False,False,0.125
+224,tr_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Açığa çıkan enerji miktarına,False,False,0.821
+224,tr_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Odak derinliğine,False,False,0.688
+224,tr_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Episantr uzaklığına,False,False,0.789
+224,tr_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Jeolojik yapıya,False,False,0.8
+224,tr_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Nüfus yoğunluğuna,False,False,0.882
+224,tr_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Bina kalitesine,False,False,0.667
+224,tr_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Deprem süresine,False,False,0.467
+224,tr_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Nerede baraj yapıldıysa orada deprem riski artmıştır.,False,False,0.827
+224,en_soru,sahne_22_akilli_tahta_slayt.png,ana,DEPREMİN ŞİDDETİ,False,False,0.25
+224,en_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Açığa çıkan enerji miktarına,False,False,0.821
+224,en_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Odak derinliğine,False,False,0.688
+224,en_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Episantr uzaklığına,False,False,0.737
+224,en_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Jeolojik yapıya,False,False,0.8
+224,en_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Nüfus yoğunluğuna,False,False,0.824
+224,en_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Bina kalitesine,False,False,0.733
+224,en_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Deprem süresine,False,False,0.467
+224,en_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Nerede baraj yapıldıysa orada deprem riski artmıştır.,False,False,0.808
+224,ocr,sahne_23_ambalaj_etiket_tarih.png,ana,"Üretim Tarihi (ÜT), Tavsiye Edilen Tüketim Tarihi (TETT), Parti No ambalaj üzerindedir.",False,False,0.163
+224,ocr,sahne_23_ambalaj_etiket_tarih.png,ana,Parti numarası üretim tarihi ile aynıdır.,False,False,0.575
+224,ocr,sahne_23_ambalaj_etiket_tarih.png,ana,Tavsiye edilen tüketim tarihinden önce tüketilmesi tavsiye edilir.,False,False,0.062
+224,ocr,sahne_23_ambalaj_etiket_tarih.png,ana,Serin ve kuru yerde muhafaza ediniz.,True,True,0.0
+224,ocr,sahne_23_ambalaj_etiket_tarih.png,ikincil,28/07/2026 14:19,True,True,0.0
+224,ocr,sahne_23_ambalaj_etiket_tarih.png,ikincil,28/01/2027 P8,False,False,0.231
+224,ocr,sahne_23_ambalaj_etiket_tarih.png,ikincil,LOT:PRD260728007,True,True,0.0
+224,tr_soru,sahne_23_ambalaj_etiket_tarih.png,ana,"Üretim Tarihi (ÜT), Tavsiye Edilen Tüketim Tarihi (TETT), Parti No ambalaj üzerindedir.",False,False,0.9
+224,tr_soru,sahne_23_ambalaj_etiket_tarih.png,ana,Parti numarası üretim tarihi ile aynıdır.,False,False,0.825
+224,tr_soru,sahne_23_ambalaj_etiket_tarih.png,ana,Tavsiye edilen tüketim tarihinden önce tüketilmesi tavsiye edilir.,False,False,0.908
+224,tr_soru,sahne_23_ambalaj_etiket_tarih.png,ana,Serin ve kuru yerde muhafaza ediniz.,False,False,0.857
+224,tr_soru,sahne_23_ambalaj_etiket_tarih.png,ikincil,28/07/2026 14:19,False,False,1.0
+224,tr_soru,sahne_23_ambalaj_etiket_tarih.png,ikincil,28/01/2027 P8,False,False,1.0
+224,tr_soru,sahne_23_ambalaj_etiket_tarih.png,ikincil,LOT:PRD260728007,False,False,0.938
+224,en_soru,sahne_23_ambalaj_etiket_tarih.png,ana,"Üretim Tarihi (ÜT), Tavsiye Edilen Tüketim Tarihi (TETT), Parti No ambalaj üzerindedir.",False,False,0.9
+224,en_soru,sahne_23_ambalaj_etiket_tarih.png,ana,Parti numarası üretim tarihi ile aynıdır.,False,False,0.825
+224,en_soru,sahne_23_ambalaj_etiket_tarih.png,ana,Tavsiye edilen tüketim tarihinden önce tüketilmesi tavsiye edilir.,False,False,0.908
+224,en_soru,sahne_23_ambalaj_etiket_tarih.png,ana,Serin ve kuru yerde muhafaza ediniz.,False,False,0.857
+224,en_soru,sahne_23_ambalaj_etiket_tarih.png,ikincil,28/07/2026 14:19,False,False,1.0
+224,en_soru,sahne_23_ambalaj_etiket_tarih.png,ikincil,28/01/2027 P8,False,False,1.0
+224,en_soru,sahne_23_ambalaj_etiket_tarih.png,ikincil,LOT:PRD260728007,False,False,0.938
+224,ocr,sahne_24_ambalaj_yogurt.png,ana,Yoğurt,False,True,0.167
+224,ocr,sahne_24_ambalaj_yogurt.png,ikincil,DOST,False,False,0.5
+224,ocr,sahne_24_ambalaj_yogurt.png,ikincil,Süt Yağı % 4.0 Protein % 4.0,False,False,0.667
+224,ocr,sahne_24_ambalaj_yogurt.png,ikincil,Tam Yağlı Yoğurt,False,False,0.562
+224,ocr,sahne_24_ambalaj_yogurt.png,ikincil,500 g,False,False,0.4
+224,ocr,sahne_24_ambalaj_yogurt.png,ikincil,Doğal Yoğurt,False,False,0.5
+224,ocr,sahne_24_ambalaj_yogurt.png,ikincil,Hikayeyi Keşfet,False,False,0.733
+224,tr_soru,sahne_24_ambalaj_yogurt.png,ana,Yoğurt,False,True,0.167
+224,tr_soru,sahne_24_ambalaj_yogurt.png,ikincil,DOST,False,False,0.75
+224,tr_soru,sahne_24_ambalaj_yogurt.png,ikincil,Süt Yağı % 4.0 Protein % 4.0,False,False,0.875
+224,tr_soru,sahne_24_ambalaj_yogurt.png,ikincil,Tam Yağlı Yoğurt,False,False,0.688
+224,tr_soru,sahne_24_ambalaj_yogurt.png,ikincil,500 g,False,False,0.8
+224,tr_soru,sahne_24_ambalaj_yogurt.png,ikincil,Doğal Yoğurt,False,False,0.583
+224,tr_soru,sahne_24_ambalaj_yogurt.png,ikincil,Hikayeyi Keşfet,False,False,0.867
+224,en_soru,sahne_24_ambalaj_yogurt.png,ana,Yoğurt,False,True,0.167
+224,en_soru,sahne_24_ambalaj_yogurt.png,ikincil,DOST,False,False,0.75
+224,en_soru,sahne_24_ambalaj_yogurt.png,ikincil,Süt Yağı % 4.0 Protein % 4.0,False,False,0.875
+224,en_soru,sahne_24_ambalaj_yogurt.png,ikincil,Tam Yağlı Yoğurt,False,False,0.688
+224,en_soru,sahne_24_ambalaj_yogurt.png,ikincil,500 g,False,False,0.8
+224,en_soru,sahne_24_ambalaj_yogurt.png,ikincil,Doğal Yoğurt,False,False,0.583
+224,en_soru,sahne_24_ambalaj_yogurt.png,ikincil,Hikayeyi Keşfet,False,False,0.867
+224,ocr,sahne_25_cadir_kosku_ahsap.png,ana,ÇADIR KÖŞKÜ,True,True,0.0
+224,ocr,sahne_25_cadir_kosku_ahsap.png,ikincil,İstanbul Büyükşehir Belediyesi,False,True,0.033
+224,tr_soru,sahne_25_cadir_kosku_ahsap.png,ana,ÇADIR KÖŞKÜ,False,False,0.818
+224,tr_soru,sahne_25_cadir_kosku_ahsap.png,ikincil,İstanbul Büyükşehir Belediyesi,False,False,0.833
+224,en_soru,sahne_25_cadir_kosku_ahsap.png,ana,ÇADIR KÖŞKÜ,False,True,0.364
+224,en_soru,sahne_25_cadir_kosku_ahsap.png,ikincil,İstanbul Büyükşehir Belediyesi,False,False,0.867
+224,ocr,sahne_26_yol_levhalari.png,ana,Anıttepe,False,True,0.125
+224,ocr,sahne_26_yol_levhalari.png,ana,Anıtkabir,False,True,0.111
+224,ocr,sahne_26_yol_levhalari.png,ana,Keçiören,True,True,0.0
+224,ocr,sahne_26_yol_levhalari.png,ana,Maltepe,True,True,0.0
+224,ocr,sahne_26_yol_levhalari.png,ana,Bahçelievler,True,True,0.0
+224,tr_soru,sahne_26_yol_levhalari.png,ana,Anıttepe,False,False,0.625
+224,tr_soru,sahne_26_yol_levhalari.png,ana,Anıtkabir,False,False,0.667
+224,tr_soru,sahne_26_yol_levhalari.png,ana,Keçiören,False,False,0.75
+224,tr_soru,sahne_26_yol_levhalari.png,ana,Maltepe,False,False,0.714
+224,tr_soru,sahne_26_yol_levhalari.png,ana,Bahçelievler,False,False,0.75
+224,en_soru,sahne_26_yol_levhalari.png,ana,Anıttepe,False,False,0.625
+224,en_soru,sahne_26_yol_levhalari.png,ana,Anıtkabir,False,False,0.667
+224,en_soru,sahne_26_yol_levhalari.png,ana,Keçiören,False,False,0.75
+224,en_soru,sahne_26_yol_levhalari.png,ana,Maltepe,False,False,0.714
+224,en_soru,sahne_26_yol_levhalari.png,ana,Bahçelievler,False,False,0.75
+224,ocr,sahne_27_fis_sok.png,ana,ŞOK MARKETLER TİC.A.Ş,False,False,0.19
+224,ocr,sahne_27_fis_sok.png,ana,TARİH : 01/02/2024,True,True,0.0
+224,ocr,sahne_27_fis_sok.png,ana,"TOPLAM *427,42",False,False,0.615
+224,ocr,sahne_27_fis_sok.png,ikincil,13462 MAMAK GAMZE ÖZDEMİR,False,False,0.44
+224,ocr,sahne_27_fis_sok.png,ikincil,ŞAHİNTEPE MH 637.SK,False,False,0.737
+224,ocr,sahne_27_fis_sok.png,ikincil,NO 2,True,True,0.0
+224,ocr,sahne_27_fis_sok.png,ikincil,MAMAK ANKARA,False,False,0.417
+224,ocr,sahne_27_fis_sok.png,ikincil,8140131899,False,False,0.4
+224,ocr,sahne_27_fis_sok.png,ikincil,ANADOLU KURUMLAR V.D,False,False,0.15
+224,ocr,sahne_27_fis_sok.png,ikincil,SAAT : 20:51:41,False,False,0.538
+224,ocr,sahne_27_fis_sok.png,ikincil,FİŞ NO : 0259,False,False,0.364
+224,ocr,sahne_27_fis_sok.png,ikincil,"OZMO FUN FİGÜRLÜ 23G %01 *13,50",False,False,0.207
+224,ocr,sahne_27_fis_sok.png,ikincil,"7-24 NAMET DANA MACA %01 *27,90",False,False,0.552
+224,ocr,sahne_27_fis_sok.png,ikincil,"OZMO FUN FİGÜRLÜ 23G %01 *13,50",False,False,0.207
+224,ocr,sahne_27_fis_sok.png,ikincil,"1,033Kg X 99,00",False,False,0.6
+224,ocr,sahne_27_fis_sok.png,ikincil,"TADPİ PİLİÇ BAGET KG %01 *102,27",False,False,0.4
+224,ocr,sahne_27_fis_sok.png,ikincil,"FINISH QUANTUM ÖZEL %20 *259,00",False,False,0.655
+224,ocr,sahne_27_fis_sok.png,ikincil,"25TLFINISH110TL *149,00-",False,False,0.682
+224,ocr,sahne_27_fis_sok.png,ikincil,"FINISH QUANTUM ÖZEL %20 *259,00",False,False,0.655
+224,ocr,sahne_27_fis_sok.png,ikincil,"25TLFINISH110TL *149,00-",False,False,0.682
+224,ocr,sahne_27_fis_sok.png,ikincil,"ARKO DEĞERLİ YAĞLAR %20 *104,50",False,False,0.586
+224,ocr,sahne_27_fis_sok.png,ikincil,"25TLARKO50TL *54,50-",False,False,0.611
+224,ocr,sahne_27_fis_sok.png,ikincil,"ALIŞVERİŞ POŞETİ 43 %20 *0,25",False,False,0.667
+224,ocr,sahne_27_fis_sok.png,ikincil,"TOPKDV *46,60",False,False,0.667
+224,tr_soru,sahne_27_fis_sok.png,ana,ŞOK MARKETLER TİC.A.Ş,False,False,0.714
+224,tr_soru,sahne_27_fis_sok.png,ana,TARİH : 01/02/2024,False,False,0.812
+224,tr_soru,sahne_27_fis_sok.png,ana,"TOPLAM *427,42",False,False,0.769
+224,tr_soru,sahne_27_fis_sok.png,ikincil,13462 MAMAK GAMZE ÖZDEMİR,False,False,0.8
+224,tr_soru,sahne_27_fis_sok.png,ikincil,ŞAHİNTEPE MH 637.SK,False,False,0.789
+224,tr_soru,sahne_27_fis_sok.png,ikincil,NO 2,False,False,0.5
+224,tr_soru,sahne_27_fis_sok.png,ikincil,MAMAK ANKARA,False,False,0.833
+224,tr_soru,sahne_27_fis_sok.png,ikincil,8140131899,False,False,1.0
+224,tr_soru,sahne_27_fis_sok.png,ikincil,ANADOLU KURUMLAR V.D,False,False,0.75
+224,tr_soru,sahne_27_fis_sok.png,ikincil,SAAT : 20:51:41,False,False,0.769
+224,tr_soru,sahne_27_fis_sok.png,ikincil,FİŞ NO : 0259,False,False,0.818
+224,tr_soru,sahne_27_fis_sok.png,ikincil,"OZMO FUN FİGÜRLÜ 23G %01 *13,50",False,False,0.862
+224,tr_soru,sahne_27_fis_sok.png,ikincil,"7-24 NAMET DANA MACA %01 *27,90",False,False,0.828
+224,tr_soru,sahne_27_fis_sok.png,ikincil,"OZMO FUN FİGÜRLÜ 23G %01 *13,50",False,False,0.862
+224,tr_soru,sahne_27_fis_sok.png,ikincil,"1,033Kg X 99,00",False,False,0.867
+224,tr_soru,sahne_27_fis_sok.png,ikincil,"TADPİ PİLİÇ BAGET KG %01 *102,27",False,False,0.867
+224,tr_soru,sahne_27_fis_sok.png,ikincil,"FINISH QUANTUM ÖZEL %20 *259,00",False,False,0.828
+224,tr_soru,sahne_27_fis_sok.png,ikincil,"25TLFINISH110TL *149,00-",False,False,0.818
+224,tr_soru,sahne_27_fis_sok.png,ikincil,"FINISH QUANTUM ÖZEL %20 *259,00",False,False,0.828
+224,tr_soru,sahne_27_fis_sok.png,ikincil,"25TLFINISH110TL *149,00-",False,False,0.818
+224,tr_soru,sahne_27_fis_sok.png,ikincil,"ARKO DEĞERLİ YAĞLAR %20 *104,50",False,False,0.862
+224,tr_soru,sahne_27_fis_sok.png,ikincil,"25TLARKO50TL *54,50-",False,False,0.778
+224,tr_soru,sahne_27_fis_sok.png,ikincil,"ALIŞVERİŞ POŞETİ 43 %20 *0,25",False,False,0.852
+224,tr_soru,sahne_27_fis_sok.png,ikincil,"TOPKDV *46,60",False,False,0.75
+224,en_soru,sahne_27_fis_sok.png,ana,ŞOK MARKETLER TİC.A.Ş,False,False,0.81
+224,en_soru,sahne_27_fis_sok.png,ana,TARİH : 01/02/2024,False,False,0.938
+224,en_soru,sahne_27_fis_sok.png,ana,"TOPLAM *427,42",False,False,0.923
+224,en_soru,sahne_27_fis_sok.png,ikincil,13462 MAMAK GAMZE ÖZDEMİR,False,False,0.88
+224,en_soru,sahne_27_fis_sok.png,ikincil,ŞAHİNTEPE MH 637.SK,False,False,0.842
+224,en_soru,sahne_27_fis_sok.png,ikincil,NO 2,False,False,0.75
+224,en_soru,sahne_27_fis_sok.png,ikincil,MAMAK ANKARA,False,False,0.75
+224,en_soru,sahne_27_fis_sok.png,ikincil,8140131899,False,False,1.0
+224,en_soru,sahne_27_fis_sok.png,ikincil,ANADOLU KURUMLAR V.D,False,False,0.8
+224,en_soru,sahne_27_fis_sok.png,ikincil,SAAT : 20:51:41,False,False,0.923
+224,en_soru,sahne_27_fis_sok.png,ikincil,FİŞ NO : 0259,False,False,0.909
+224,en_soru,sahne_27_fis_sok.png,ikincil,"OZMO FUN FİGÜRLÜ 23G %01 *13,50",False,False,0.897
+224,en_soru,sahne_27_fis_sok.png,ikincil,"7-24 NAMET DANA MACA %01 *27,90",False,False,0.862
+224,en_soru,sahne_27_fis_sok.png,ikincil,"OZMO FUN FİGÜRLÜ 23G %01 *13,50",False,False,0.897
+224,en_soru,sahne_27_fis_sok.png,ikincil,"1,033Kg X 99,00",False,False,1.0
+224,en_soru,sahne_27_fis_sok.png,ikincil,"TADPİ PİLİÇ BAGET KG %01 *102,27",False,False,0.9
+224,en_soru,sahne_27_fis_sok.png,ikincil,"FINISH QUANTUM ÖZEL %20 *259,00",False,False,0.862
+224,en_soru,sahne_27_fis_sok.png,ikincil,"25TLFINISH110TL *149,00-",False,False,0.864
+224,en_soru,sahne_27_fis_sok.png,ikincil,"FINISH QUANTUM ÖZEL %20 *259,00",False,False,0.862
+224,en_soru,sahne_27_fis_sok.png,ikincil,"25TLFINISH110TL *149,00-",False,False,0.864
+224,en_soru,sahne_27_fis_sok.png,ikincil,"ARKO DEĞERLİ YAĞLAR %20 *104,50",False,False,0.828
+224,en_soru,sahne_27_fis_sok.png,ikincil,"25TLARKO50TL *54,50-",False,False,0.889
+224,en_soru,sahne_27_fis_sok.png,ikincil,"ALIŞVERİŞ POŞETİ 43 %20 *0,25",False,False,0.852
+224,en_soru,sahne_27_fis_sok.png,ikincil,"TOPKDV *46,60",False,False,1.0
+224,ocr,sahne_28_fis_bim.png,ana,BİM BİRLEŞİK MAĞAZALAR A.Ş.,False,False,0.115
+224,ocr,sahne_28_fis_bim.png,ana,"TOPLAM *216,49",False,False,0.615
+224,ocr,sahne_28_fis_bim.png,ikincil,YUNUS MAH.KUBİLAY CAD.NO: 15/A,False,False,0.517
+224,ocr,sahne_28_fis_bim.png,ikincil,KARTAL / İSTANBUL,True,True,0.0
+224,ocr,sahne_28_fis_bim.png,ikincil,BÜYÜK MÜKELLEFLER VDB 1750051846,False,False,0.219
+224,ocr,sahne_28_fis_bim.png,ikincil,E-ARŞİV FATURA BİLGİ FİŞİ,False,False,0.28
+224,ocr,sahne_28_fis_bim.png,ikincil,"2.025 kg X 19,75",True,True,0.0
+224,ocr,sahne_28_fis_bim.png,ikincil,"PATATES %1 *39,99",False,False,0.267
+224,ocr,sahne_28_fis_bim.png,ikincil,"MERCİMEK YEŞİL 1 KG %1 *57,00",False,False,0.37
+224,ocr,sahne_28_fis_bim.png,ikincil,"NOHUT 2.5 KG SABAN %1 *119,50",False,False,0.222
+224,ocr,sahne_28_fis_bim.png,ikincil,"TOPKDV *2,14",False,False,0.545
+224,ocr,sahne_28_fis_bim.png,ikincil,"Banka Kredi Kartı 1 *216,49",False,False,0.385
+224,ocr,sahne_28_fis_bim.png,ikincil,GARANTİ BANKASI,False,False,0.6
+224,tr_soru,sahne_28_fis_bim.png,ana,BİM BİRLEŞİK MAĞAZALAR A.Ş.,False,False,0.769
+224,tr_soru,sahne_28_fis_bim.png,ana,"TOPLAM *216,49",False,False,0.769
+224,tr_soru,sahne_28_fis_bim.png,ikincil,YUNUS MAH.KUBİLAY CAD.NO: 15/A,False,False,0.793
+224,tr_soru,sahne_28_fis_bim.png,ikincil,KARTAL / İSTANBUL,False,False,0.6
+224,tr_soru,sahne_28_fis_bim.png,ikincil,BÜYÜK MÜKELLEFLER VDB 1750051846,False,False,0.844
+224,tr_soru,sahne_28_fis_bim.png,ikincil,E-ARŞİV FATURA BİLGİ FİŞİ,False,False,0.32
+224,tr_soru,sahne_28_fis_bim.png,ikincil,"2.025 kg X 19,75",False,False,0.812
+224,tr_soru,sahne_28_fis_bim.png,ikincil,"PATATES %1 *39,99",False,False,0.8
+224,tr_soru,sahne_28_fis_bim.png,ikincil,"MERCİMEK YEŞİL 1 KG %1 *57,00",False,False,0.815
+224,tr_soru,sahne_28_fis_bim.png,ikincil,"NOHUT 2.5 KG SABAN %1 *119,50",False,False,0.852
+224,tr_soru,sahne_28_fis_bim.png,ikincil,"TOPKDV *2,14",False,False,0.818
+224,tr_soru,sahne_28_fis_bim.png,ikincil,"Banka Kredi Kartı 1 *216,49",False,False,0.808
+224,tr_soru,sahne_28_fis_bim.png,ikincil,GARANTİ BANKASI,False,False,0.733
+224,en_soru,sahne_28_fis_bim.png,ana,BİM BİRLEŞİK MAĞAZALAR A.Ş.,False,False,0.769
+224,en_soru,sahne_28_fis_bim.png,ana,"TOPLAM *216,49",False,False,0.769
+224,en_soru,sahne_28_fis_bim.png,ikincil,YUNUS MAH.KUBİLAY CAD.NO: 15/A,False,False,0.793
+224,en_soru,sahne_28_fis_bim.png,ikincil,KARTAL / İSTANBUL,False,False,0.6
+224,en_soru,sahne_28_fis_bim.png,ikincil,BÜYÜK MÜKELLEFLER VDB 1750051846,False,False,0.875
+224,en_soru,sahne_28_fis_bim.png,ikincil,E-ARŞİV FATURA BİLGİ FİŞİ,False,False,0.24
+224,en_soru,sahne_28_fis_bim.png,ikincil,"2.025 kg X 19,75",False,False,0.75
+224,en_soru,sahne_28_fis_bim.png,ikincil,"PATATES %1 *39,99",False,False,0.8
+224,en_soru,sahne_28_fis_bim.png,ikincil,"MERCİMEK YEŞİL 1 KG %1 *57,00",False,False,0.815
+224,en_soru,sahne_28_fis_bim.png,ikincil,"NOHUT 2.5 KG SABAN %1 *119,50",False,False,0.815
+224,en_soru,sahne_28_fis_bim.png,ikincil,"TOPKDV *2,14",False,False,0.818
+224,en_soru,sahne_28_fis_bim.png,ikincil,"Banka Kredi Kartı 1 *216,49",False,False,0.808
+224,en_soru,sahne_28_fis_bim.png,ikincil,GARANTİ BANKASI,False,False,0.733
+224,ocr,sahne_29_tabelamatik_mockup.png,ana,Tabelamatik,False,False,0.182
+224,tr_soru,sahne_29_tabelamatik_mockup.png,ana,Tabelamatik,False,False,0.364
+224,en_soru,sahne_29_tabelamatik_mockup.png,ana,Tabelamatik,False,False,0.182
+224,ocr,sahne_30_dolu_levha.png,ana,DOLU,True,True,0.0
+224,ocr,sahne_30_dolu_levha.png,ikincil,02.01.0008,False,False,0.8
+224,ocr,sahne_30_dolu_levha.png,ikincil,TABELA.com.tr,False,False,0.077
+224,tr_soru,sahne_30_dolu_levha.png,ana,DOLU,True,True,0.0
+224,tr_soru,sahne_30_dolu_levha.png,ikincil,02.01.0008,False,False,1.0
+224,tr_soru,sahne_30_dolu_levha.png,ikincil,TABELA.com.tr,False,False,0.923
+224,en_soru,sahne_30_dolu_levha.png,ana,DOLU,True,True,0.0
+224,en_soru,sahne_30_dolu_levha.png,ikincil,02.01.0008,False,False,1.0
+224,en_soru,sahne_30_dolu_levha.png,ikincil,TABELA.com.tr,False,False,0.923
+224,ocr,sahne_31_elektrik_pano_plaka.png,ana,OSMANGAZİ ELEKTRİK DAĞITIM A.Ş.,False,False,0.067
+224,ocr,sahne_31_elektrik_pano_plaka.png,ikincil,26902319,True,True,0.0
+224,tr_soru,sahne_31_elektrik_pano_plaka.png,ana,OSMANGAZİ ELEKTRİK DAĞITIM A.Ş.,False,True,0.133
+224,tr_soru,sahne_31_elektrik_pano_plaka.png,ikincil,26902319,True,True,0.0
+224,en_soru,sahne_31_elektrik_pano_plaka.png,ana,OSMANGAZİ ELEKTRİK DAĞITIM A.Ş.,False,False,1.0
+224,en_soru,sahne_31_elektrik_pano_plaka.png,ikincil,26902319,True,True,0.0
+224,ocr,sahne_32_cop_konteyner_uyari.png,ana,SICAK KÜL ATMAYINIZ,False,False,0.105
+224,ocr,sahne_32_cop_konteyner_uyari.png,ikincil,5m,True,True,0.0
+224,ocr,sahne_32_cop_konteyner_uyari.png,ikincil,5m,True,True,0.0
+224,tr_soru,sahne_32_cop_konteyner_uyari.png,ana,SICAK KÜL ATMAYINIZ,False,False,0.895
+224,tr_soru,sahne_32_cop_konteyner_uyari.png,ikincil,5m,False,False,1.0
+224,tr_soru,sahne_32_cop_konteyner_uyari.png,ikincil,5m,False,False,1.0
+224,en_soru,sahne_32_cop_konteyner_uyari.png,ana,SICAK KÜL ATMAYINIZ,False,False,0.947
+224,en_soru,sahne_32_cop_konteyner_uyari.png,ikincil,5m,True,True,0.0
+224,en_soru,sahne_32_cop_konteyner_uyari.png,ikincil,5m,True,True,0.0
+224,ocr,sahne_33_dikkat_olum_tehlikesi.png,ana,DİKKAT! ÖLÜM TEHLİKESİ,False,False,0.143
+224,tr_soru,sahne_33_dikkat_olum_tehlikesi.png,ana,DİKKAT! ÖLÜM TEHLİKESİ,False,False,0.143
+224,en_soru,sahne_33_dikkat_olum_tehlikesi.png,ana,DİKKAT! ÖLÜM TEHLİKESİ,False,False,0.143
+224,ocr,sahne_34_kural_kiz_apart.png,ana,KURAL KIZ APART,True,True,0.0
+224,ocr,sahne_34_kural_kiz_apart.png,ikincil,KAYITLARIMIZ BAŞLAMIŞTIR,False,True,0.042
+224,tr_soru,sahne_34_kural_kiz_apart.png,ana,KURAL KIZ APART,False,True,0.067
+224,tr_soru,sahne_34_kural_kiz_apart.png,ikincil,KAYITLARIMIZ BAŞLAMIŞTIR,False,True,0.292
+224,en_soru,sahne_34_kural_kiz_apart.png,ana,KURAL KIZ APART,False,True,0.067
+224,en_soru,sahne_34_kural_kiz_apart.png,ikincil,KAYITLARIMIZ BAŞLAMIŞTIR,False,True,0.292
+448,ocr,sahne_01_cikartma.png,ana,Onun Hevesi Bitti,True,True,0.0
+448,ocr,sahne_01_cikartma.png,ikincil,Benimde Nefesim,False,False,0.333
+448,tr_soru,sahne_01_cikartma.png,ana,Onun Hevesi Bitti,True,True,0.0
+448,tr_soru,sahne_01_cikartma.png,ikincil,Benimde Nefesim,False,False,0.6
+448,en_soru,sahne_01_cikartma.png,ana,Onun Hevesi Bitti,True,True,0.0
+448,en_soru,sahne_01_cikartma.png,ikincil,Benimde Nefesim,False,False,0.6
+448,ocr,sahne_02_terzi_abit_kurt.png,ana,TERZİ,False,True,0.2
+448,ocr,sahne_02_terzi_abit_kurt.png,ikincil,ABİT KURT,True,True,0.0
+448,tr_soru,sahne_02_terzi_abit_kurt.png,ana,TERZİ,True,True,0.0
+448,tr_soru,sahne_02_terzi_abit_kurt.png,ikincil,ABİT KURT,True,True,0.0
+448,en_soru,sahne_02_terzi_abit_kurt.png,ana,TERZİ,True,True,0.0
+448,en_soru,sahne_02_terzi_abit_kurt.png,ikincil,ABİT KURT,True,True,0.0
+448,ocr,sahne_03_sunar_kayali.png,ana,Sunar & Kayalı,True,True,0.0
+448,ocr,sahne_03_sunar_kayali.png,ikincil,1967'DEN BERİ,False,False,0.308
+448,ocr,sahne_03_sunar_kayali.png,ikincil,ZAMANSIZ TASARIM • YÜKSEK KALİTE,False,False,0.367
+448,tr_soru,sahne_03_sunar_kayali.png,ana,Sunar & Kayalı,True,True,0.0
+448,tr_soru,sahne_03_sunar_kayali.png,ikincil,1967'DEN BERİ,False,False,0.846
+448,tr_soru,sahne_03_sunar_kayali.png,ikincil,ZAMANSIZ TASARIM • YÜKSEK KALİTE,False,False,0.767
+448,en_soru,sahne_03_sunar_kayali.png,ana,Sunar & Kayalı,True,True,0.0
+448,en_soru,sahne_03_sunar_kayali.png,ikincil,1967'DEN BERİ,False,False,0.308
+448,en_soru,sahne_03_sunar_kayali.png,ikincil,ZAMANSIZ TASARIM • YÜKSEK KALİTE,True,True,0.0
+448,ocr,sahne_04_carsi_reklam.png,ana,çarşı reklam,True,True,0.0
+448,ocr,sahne_04_carsi_reklam.png,ikincil,Doğru Mecrada Doğru Reklam Kazandırır,False,False,0.054
+448,ocr,sahne_04_carsi_reklam.png,ikincil,Bize en yakın Çarşı,True,True,0.0
+448,tr_soru,sahne_04_carsi_reklam.png,ana,çarşı reklam,False,False,0.333
+448,tr_soru,sahne_04_carsi_reklam.png,ikincil,Doğru Mecrada Doğru Reklam Kazandırır,False,False,0.054
+448,tr_soru,sahne_04_carsi_reklam.png,ikincil,Bize en yakın Çarşı,False,False,0.789
+448,en_soru,sahne_04_carsi_reklam.png,ana,çarşı reklam,False,False,0.333
+448,en_soru,sahne_04_carsi_reklam.png,ikincil,Doğru Mecrada Doğru Reklam Kazandırır,False,False,0.054
+448,en_soru,sahne_04_carsi_reklam.png,ikincil,Bize en yakın Çarşı,False,False,0.737
+448,ocr,sahne_05_dadas_doner.png,ana,DADAŞ DÖNER,True,True,0.0
+448,ocr,sahne_05_dadas_doner.png,ikincil,ODUN ATEŞİNDE LEZZET,True,True,0.0
+448,ocr,sahne_05_dadas_doner.png,ikincil,TEL: 0530 610 9806,True,True,0.0
+448,tr_soru,sahne_05_dadas_doner.png,ana,DADAŞ DÖNER,False,True,0.182
+448,tr_soru,sahne_05_dadas_doner.png,ikincil,ODUN ATEŞİNDE LEZZET,False,False,0.8
+448,tr_soru,sahne_05_dadas_doner.png,ikincil,TEL: 0530 610 9806,False,False,0.941
+448,en_soru,sahne_05_dadas_doner.png,ana,DADAŞ DÖNER,True,True,0.0
+448,en_soru,sahne_05_dadas_doner.png,ikincil,ODUN ATEŞİNDE LEZZET,True,True,0.0
+448,en_soru,sahne_05_dadas_doner.png,ikincil,TEL: 0530 610 9806,True,True,0.0
+448,ocr,sahne_06_koksal_baba.png,ana,KÖKSAL BABA STORE,True,True,0.0
+448,tr_soru,sahne_06_koksal_baba.png,ana,KÖKSAL BABA STORE,False,True,0.059
+448,en_soru,sahne_06_koksal_baba.png,ana,KÖKSAL BABA STORE,False,True,0.059
+448,ocr,sahne_07_kahvehane_gece.png,ana,KAHVEHANESİ,False,True,0.091
+448,ocr,sahne_07_kahvehane_gece.png,ikincil,BİLARDO SALONU,False,True,0.071
+448,tr_soru,sahne_07_kahvehane_gece.png,ana,KAHVEHANESİ,False,False,0.727
+448,tr_soru,sahne_07_kahvehane_gece.png,ikincil,BİLARDO SALONU,False,False,0.857
+448,en_soru,sahne_07_kahvehane_gece.png,ana,KAHVEHANESİ,True,True,0.0
+448,en_soru,sahne_07_kahvehane_gece.png,ikincil,BİLARDO SALONU,False,False,0.786
+448,ocr,sahne_08_emek_yufkacisi.png,ana,EMEK YUFKACISI,False,False,0.143
+448,ocr,sahne_08_emek_yufkacisi.png,ikincil,HOŞ GELDİNİZ,False,True,0.083
+448,tr_soru,sahne_08_emek_yufkacisi.png,ana,EMEK YUFKACISI,False,False,0.214
+448,tr_soru,sahne_08_emek_yufkacisi.png,ikincil,HOŞ GELDİNİZ,False,False,0.833
+448,en_soru,sahne_08_emek_yufkacisi.png,ana,EMEK YUFKACISI,False,False,0.286
+448,en_soru,sahne_08_emek_yufkacisi.png,ikincil,HOŞ GELDİNİZ,False,False,0.833
+448,ocr,sahne_10_mostarpark.png,ana,MOSTARPARK,True,True,0.0
+448,ocr,sahne_10_mostarpark.png,ikincil,SOSYAL TESİSLERİ,False,False,0.125
+448,ocr,sahne_10_mostarpark.png,ikincil,BELEDİYESİ,True,True,0.0
+448,tr_soru,sahne_10_mostarpark.png,ana,MOSTARPARK,True,True,0.0
+448,tr_soru,sahne_10_mostarpark.png,ikincil,SOSYAL TESİSLERİ,False,False,0.562
+448,tr_soru,sahne_10_mostarpark.png,ikincil,BELEDİYESİ,False,False,0.6
+448,en_soru,sahne_10_mostarpark.png,ana,MOSTARPARK,True,True,0.0
+448,en_soru,sahne_10_mostarpark.png,ikincil,SOSYAL TESİSLERİ,False,False,0.75
+448,en_soru,sahne_10_mostarpark.png,ikincil,BELEDİYESİ,False,False,0.9
+448,ocr,sahne_11_agaoglu_gece.png,ana,AĞAOĞLU,False,False,0.286
+448,ocr,sahne_11_agaoglu_gece.png,ikincil,YAPI DEKORASYON,True,True,0.0
+448,ocr,sahne_11_agaoglu_gece.png,ikincil,MOBİLYA DEKORASYON,True,True,0.0
+448,ocr,sahne_11_agaoglu_gece.png,ikincil,MUTFAK DOLABI,True,True,0.0
+448,ocr,sahne_11_agaoglu_gece.png,ikincil,BANYO DOLABI,True,True,0.0
+448,ocr,sahne_11_agaoglu_gece.png,ikincil,YATAK ODASI,True,True,0.0
+448,ocr,sahne_11_agaoglu_gece.png,ikincil,PORTMANTO-RAY DOLAP,True,True,0.0
+448,ocr,sahne_11_agaoglu_gece.png,ikincil,0 532 273 50 00,False,False,0.067
+448,tr_soru,sahne_11_agaoglu_gece.png,ana,AĞAOĞLU,False,False,0.571
+448,tr_soru,sahne_11_agaoglu_gece.png,ikincil,YAPI DEKORASYON,False,False,0.667
+448,tr_soru,sahne_11_agaoglu_gece.png,ikincil,MOBİLYA DEKORASYON,False,False,0.722
+448,tr_soru,sahne_11_agaoglu_gece.png,ikincil,MUTFAK DOLABI,False,False,0.615
+448,tr_soru,sahne_11_agaoglu_gece.png,ikincil,BANYO DOLABI,False,False,0.667
+448,tr_soru,sahne_11_agaoglu_gece.png,ikincil,YATAK ODASI,False,False,0.636
+448,tr_soru,sahne_11_agaoglu_gece.png,ikincil,PORTMANTO-RAY DOLAP,False,False,0.737
+448,tr_soru,sahne_11_agaoglu_gece.png,ikincil,0 532 273 50 00,False,False,0.8
+448,en_soru,sahne_11_agaoglu_gece.png,ana,AĞAOĞLU,False,False,0.714
+448,en_soru,sahne_11_agaoglu_gece.png,ikincil,YAPI DEKORASYON,False,False,0.733
+448,en_soru,sahne_11_agaoglu_gece.png,ikincil,MOBİLYA DEKORASYON,False,False,0.833
+448,en_soru,sahne_11_agaoglu_gece.png,ikincil,MUTFAK DOLABI,False,False,0.692
+448,en_soru,sahne_11_agaoglu_gece.png,ikincil,BANYO DOLABI,False,False,0.667
+448,en_soru,sahne_11_agaoglu_gece.png,ikincil,YATAK ODASI,False,False,0.818
+448,en_soru,sahne_11_agaoglu_gece.png,ikincil,PORTMANTO-RAY DOLAP,False,False,0.737
+448,en_soru,sahne_11_agaoglu_gece.png,ikincil,0 532 273 50 00,False,False,1.0
+448,ocr,sahne_12_vefa_ikram.png,ana,VEFA İKRAM,True,True,0.0
+448,ocr,sahne_12_vefa_ikram.png,ikincil,ÇİĞ KÖFTE,True,True,0.0
+448,tr_soru,sahne_12_vefa_ikram.png,ana,VEFA İKRAM,True,True,0.0
+448,tr_soru,sahne_12_vefa_ikram.png,ikincil,ÇİĞ KÖFTE,False,False,0.444
+448,en_soru,sahne_12_vefa_ikram.png,ana,VEFA İKRAM,True,True,0.0
+448,en_soru,sahne_12_vefa_ikram.png,ikincil,ÇİĞ KÖFTE,False,False,0.778
+448,ocr,sahne_13_celebioglu_ap.png,ana,Çelebioğlu Ap.,False,False,1.0
+448,ocr,sahne_13_celebioglu_ap.png,ikincil,20,True,True,0.0
+448,tr_soru,sahne_13_celebioglu_ap.png,ana,Çelebioğlu Ap.,False,False,0.308
+448,tr_soru,sahne_13_celebioglu_ap.png,ikincil,20,True,True,0.0
+448,en_soru,sahne_13_celebioglu_ap.png,ana,Çelebioğlu Ap.,False,False,0.231
+448,en_soru,sahne_13_celebioglu_ap.png,ikincil,20,True,True,0.0
+448,ocr,sahne_14_kurtulus_bakkal.png,ana,Kurtuluş,False,False,0.25
+448,ocr,sahne_14_kurtulus_bakkal.png,ikincil,BAKKALİYESİ VE KURU KAHVE,True,True,0.0
+448,tr_soru,sahne_14_kurtulus_bakkal.png,ana,Kurtuluş,False,False,0.75
+448,tr_soru,sahne_14_kurtulus_bakkal.png,ikincil,BAKKALİYESİ VE KURU KAHVE,False,False,0.68
+448,en_soru,sahne_14_kurtulus_bakkal.png,ana,Kurtuluş,False,False,0.25
+448,en_soru,sahne_14_kurtulus_bakkal.png,ikincil,BAKKALİYESİ VE KURU KAHVE,True,True,0.0
+448,ocr,sahne_15_sariyer_borekcisi.png,ana,SARIYER BÖREKÇİSİ,True,True,0.0
+448,tr_soru,sahne_15_sariyer_borekcisi.png,ana,SARIYER BÖREKÇİSİ,False,True,0.118
+448,en_soru,sahne_15_sariyer_borekcisi.png,ana,SARIYER BÖREKÇİSİ,True,True,0.0
+448,ocr,sahne_17_hanturk_anadolu.png,ana,DENİZLİ'NİN EN PRESTİJLİ PROJESİ,True,True,0.0
+448,ocr,sahne_17_hanturk_anadolu.png,ana,ANADOLU İNCİSİ,True,True,0.0
+448,ocr,sahne_17_hanturk_anadolu.png,ana,başlıyor,True,True,0.0
+448,ocr,sahne_17_hanturk_anadolu.png,ikincil,HANTÜRK GAYRİMENKUL,False,False,0.263
+448,ocr,sahne_17_hanturk_anadolu.png,ikincil,Satış Temsilcisi,False,False,0.125
+448,ocr,sahne_17_hanturk_anadolu.png,ikincil,0532 262 19 17,True,True,0.0
+448,ocr,sahne_17_hanturk_anadolu.png,ikincil,ANADOLU İnşaat,True,True,0.0
+448,tr_soru,sahne_17_hanturk_anadolu.png,ana,DENİZLİ'NİN EN PRESTİJLİ PROJESİ,False,False,0.031
+448,tr_soru,sahne_17_hanturk_anadolu.png,ana,ANADOLU İNCİSİ,True,True,0.0
+448,tr_soru,sahne_17_hanturk_anadolu.png,ana,başlıyor,False,True,0.25
+448,tr_soru,sahne_17_hanturk_anadolu.png,ikincil,HANTÜRK GAYRİMENKUL,False,False,0.789
+448,tr_soru,sahne_17_hanturk_anadolu.png,ikincil,Satış Temsilcisi,False,False,0.625
+448,tr_soru,sahne_17_hanturk_anadolu.png,ikincil,0532 262 19 17,False,False,0.786
+448,tr_soru,sahne_17_hanturk_anadolu.png,ikincil,ANADOLU İnşaat,False,False,0.286
+448,en_soru,sahne_17_hanturk_anadolu.png,ana,DENİZLİ'NİN EN PRESTİJLİ PROJESİ,True,True,0.0
+448,en_soru,sahne_17_hanturk_anadolu.png,ana,ANADOLU İNCİSİ,False,False,0.643
+448,en_soru,sahne_17_hanturk_anadolu.png,ana,başlıyor,False,False,0.75
+448,en_soru,sahne_17_hanturk_anadolu.png,ikincil,HANTÜRK GAYRİMENKUL,False,False,0.789
+448,en_soru,sahne_17_hanturk_anadolu.png,ikincil,Satış Temsilcisi,False,False,0.75
+448,en_soru,sahne_17_hanturk_anadolu.png,ikincil,0532 262 19 17,False,False,0.786
+448,en_soru,sahne_17_hanturk_anadolu.png,ikincil,ANADOLU İnşaat,False,False,0.714
+448,ocr,sahne_19_gece_sehir_reklamlari.png,ana,LOVE SHOP,True,True,0.0
+448,ocr,sahne_19_gece_sehir_reklamlari.png,ana,SOYSAL,True,True,0.0
+448,ocr,sahne_19_gece_sehir_reklamlari.png,ana,Coca-Cola,True,True,0.0
+448,ocr,sahne_19_gece_sehir_reklamlari.png,ana,ÖZŞAHİN,False,True,0.143
+448,ocr,sahne_19_gece_sehir_reklamlari.png,ikincil,EPİLASYON GÜZELLİK,False,True,0.056
+448,ocr,sahne_19_gece_sehir_reklamlari.png,ikincil,LOCA Cafe·Restaurant,False,False,0.15
+448,ocr,sahne_19_gece_sehir_reklamlari.png,ikincil,Metro Alışveriş M…,True,True,0.0
+448,tr_soru,sahne_19_gece_sehir_reklamlari.png,ana,LOVE SHOP,True,True,0.0
+448,tr_soru,sahne_19_gece_sehir_reklamlari.png,ana,SOYSAL,False,False,0.833
+448,tr_soru,sahne_19_gece_sehir_reklamlari.png,ana,Coca-Cola,False,False,0.778
+448,tr_soru,sahne_19_gece_sehir_reklamlari.png,ana,ÖZŞAHİN,False,False,0.857
+448,tr_soru,sahne_19_gece_sehir_reklamlari.png,ikincil,EPİLASYON GÜZELLİK,False,False,0.833
+448,tr_soru,sahne_19_gece_sehir_reklamlari.png,ikincil,LOCA Cafe·Restaurant,False,False,0.75
+448,tr_soru,sahne_19_gece_sehir_reklamlari.png,ikincil,Metro Alışveriş M…,False,False,0.765
+448,en_soru,sahne_19_gece_sehir_reklamlari.png,ana,LOVE SHOP,True,True,0.0
+448,en_soru,sahne_19_gece_sehir_reklamlari.png,ana,SOYSAL,False,False,0.833
+448,en_soru,sahne_19_gece_sehir_reklamlari.png,ana,Coca-Cola,False,False,0.778
+448,en_soru,sahne_19_gece_sehir_reklamlari.png,ana,ÖZŞAHİN,False,False,0.857
+448,en_soru,sahne_19_gece_sehir_reklamlari.png,ikincil,EPİLASYON GÜZELLİK,False,False,0.833
+448,en_soru,sahne_19_gece_sehir_reklamlari.png,ikincil,LOCA Cafe·Restaurant,False,False,0.75
+448,en_soru,sahne_19_gece_sehir_reklamlari.png,ikincil,Metro Alışveriş M…,False,False,0.765
+448,ocr,sahne_21_donerus_avm.png,ana,Dönerus,True,True,0.0
+448,ocr,sahne_21_donerus_avm.png,ikincil,Doyumsuz Lezzet,False,False,0.067
+448,ocr,sahne_21_donerus_avm.png,ikincil,PİZZA,False,True,0.2
+448,tr_soru,sahne_21_donerus_avm.png,ana,Dönerus,False,True,0.143
+448,tr_soru,sahne_21_donerus_avm.png,ikincil,Doyumsuz Lezzet,False,False,0.8
+448,tr_soru,sahne_21_donerus_avm.png,ikincil,PİZZA,False,False,1.0
+448,en_soru,sahne_21_donerus_avm.png,ana,Dönerus,True,True,0.0
+448,en_soru,sahne_21_donerus_avm.png,ikincil,Doyumsuz Lezzet,False,False,0.333
+448,en_soru,sahne_21_donerus_avm.png,ikincil,PİZZA,False,True,0.2
+448,ocr,sahne_22_akilli_tahta_slayt.png,ana,DEPREMİN ŞİDDETİ,True,True,0.0
+448,ocr,sahne_22_akilli_tahta_slayt.png,ikincil,Açığa çıkan enerji miktarına,True,True,0.0
+448,ocr,sahne_22_akilli_tahta_slayt.png,ikincil,Odak derinliğine,True,True,0.0
+448,ocr,sahne_22_akilli_tahta_slayt.png,ikincil,Episantr uzaklığına,False,False,0.053
+448,ocr,sahne_22_akilli_tahta_slayt.png,ikincil,Jeolojik yapıya,True,True,0.0
+448,ocr,sahne_22_akilli_tahta_slayt.png,ikincil,Nüfus yoğunluğuna,True,True,0.0
+448,ocr,sahne_22_akilli_tahta_slayt.png,ikincil,Bina kalitesine,True,True,0.0
+448,ocr,sahne_22_akilli_tahta_slayt.png,ikincil,Deprem süresine,True,True,0.0
+448,ocr,sahne_22_akilli_tahta_slayt.png,ikincil,Nerede baraj yapıldıysa orada deprem riski artmıştır.,True,True,0.0
+448,tr_soru,sahne_22_akilli_tahta_slayt.png,ana,DEPREMİN ŞİDDETİ,True,True,0.0
+448,tr_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Açığa çıkan enerji miktarına,False,False,0.821
+448,tr_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Odak derinliğine,False,False,0.688
+448,tr_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Episantr uzaklığına,False,False,0.789
+448,tr_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Jeolojik yapıya,False,False,0.8
+448,tr_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Nüfus yoğunluğuna,False,False,0.882
+448,tr_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Bina kalitesine,False,False,0.667
+448,tr_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Deprem süresine,False,False,0.467
+448,tr_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Nerede baraj yapıldıysa orada deprem riski artmıştır.,False,False,0.827
+448,en_soru,sahne_22_akilli_tahta_slayt.png,ana,DEPREMİN ŞİDDETİ,False,True,0.125
+448,en_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Açığa çıkan enerji miktarına,False,False,0.821
+448,en_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Odak derinliğine,False,False,0.688
+448,en_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Episantr uzaklığına,False,False,0.737
+448,en_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Jeolojik yapıya,False,False,0.8
+448,en_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Nüfus yoğunluğuna,False,False,0.882
+448,en_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Bina kalitesine,False,False,0.667
+448,en_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Deprem süresine,False,False,0.467
+448,en_soru,sahne_22_akilli_tahta_slayt.png,ikincil,Nerede baraj yapıldıysa orada deprem riski artmıştır.,False,False,0.808
+448,ocr,sahne_23_ambalaj_etiket_tarih.png,ana,"Üretim Tarihi (ÜT), Tavsiye Edilen Tüketim Tarihi (TETT), Parti No ambalaj üzerindedir.",False,False,0.013
+448,ocr,sahne_23_ambalaj_etiket_tarih.png,ana,Parti numarası üretim tarihi ile aynıdır.,True,True,0.0
+448,ocr,sahne_23_ambalaj_etiket_tarih.png,ana,Tavsiye edilen tüketim tarihinden önce tüketilmesi tavsiye edilir.,False,False,0.031
+448,ocr,sahne_23_ambalaj_etiket_tarih.png,ana,Serin ve kuru yerde muhafaza ediniz.,True,True,0.0
+448,ocr,sahne_23_ambalaj_etiket_tarih.png,ikincil,28/07/2026 14:19,True,True,0.0
+448,ocr,sahne_23_ambalaj_etiket_tarih.png,ikincil,28/01/2027 P8,True,True,0.0
+448,ocr,sahne_23_ambalaj_etiket_tarih.png,ikincil,LOT:PRD260728007,True,True,0.0
+448,tr_soru,sahne_23_ambalaj_etiket_tarih.png,ana,"Üretim Tarihi (ÜT), Tavsiye Edilen Tüketim Tarihi (TETT), Parti No ambalaj üzerindedir.",False,False,0.887
+448,tr_soru,sahne_23_ambalaj_etiket_tarih.png,ana,Parti numarası üretim tarihi ile aynıdır.,False,False,0.8
+448,tr_soru,sahne_23_ambalaj_etiket_tarih.png,ana,Tavsiye edilen tüketim tarihinden önce tüketilmesi tavsiye edilir.,False,False,0.862
+448,tr_soru,sahne_23_ambalaj_etiket_tarih.png,ana,Serin ve kuru yerde muhafaza ediniz.,False,False,0.829
+448,tr_soru,sahne_23_ambalaj_etiket_tarih.png,ikincil,28/07/2026 14:19,False,False,0.875
+448,tr_soru,sahne_23_ambalaj_etiket_tarih.png,ikincil,28/01/2027 P8,False,False,0.846
+448,tr_soru,sahne_23_ambalaj_etiket_tarih.png,ikincil,LOT:PRD260728007,False,False,0.812
+448,en_soru,sahne_23_ambalaj_etiket_tarih.png,ana,"Üretim Tarihi (ÜT), Tavsiye Edilen Tüketim Tarihi (TETT), Parti No ambalaj üzerindedir.",False,False,0.887
+448,en_soru,sahne_23_ambalaj_etiket_tarih.png,ana,Parti numarası üretim tarihi ile aynıdır.,False,False,0.8
+448,en_soru,sahne_23_ambalaj_etiket_tarih.png,ana,Tavsiye edilen tüketim tarihinden önce tüketilmesi tavsiye edilir.,False,False,0.862
+448,en_soru,sahne_23_ambalaj_etiket_tarih.png,ana,Serin ve kuru yerde muhafaza ediniz.,False,False,0.829
+448,en_soru,sahne_23_ambalaj_etiket_tarih.png,ikincil,28/07/2026 14:19,False,False,0.875
+448,en_soru,sahne_23_ambalaj_etiket_tarih.png,ikincil,28/01/2027 P8,False,False,0.846
+448,en_soru,sahne_23_ambalaj_etiket_tarih.png,ikincil,LOT:PRD260728007,False,False,0.812
+448,ocr,sahne_24_ambalaj_yogurt.png,ana,Yoğurt,True,True,0.0
+448,ocr,sahne_24_ambalaj_yogurt.png,ikincil,DOST,False,False,0.25
+448,ocr,sahne_24_ambalaj_yogurt.png,ikincil,Süt Yağı % 4.0 Protein % 4.0,False,False,0.625
+448,ocr,sahne_24_ambalaj_yogurt.png,ikincil,Tam Yağlı Yoğurt,False,False,0.188
+448,ocr,sahne_24_ambalaj_yogurt.png,ikincil,500 g,False,False,0.2
+448,ocr,sahne_24_ambalaj_yogurt.png,ikincil,Doğal Yoğurt,False,False,0.25
+448,ocr,sahne_24_ambalaj_yogurt.png,ikincil,Hikayeyi Keşfet,False,False,0.733
+448,tr_soru,sahne_24_ambalaj_yogurt.png,ana,Yoğurt,False,True,0.167
+448,tr_soru,sahne_24_ambalaj_yogurt.png,ikincil,DOST,False,False,0.75
+448,tr_soru,sahne_24_ambalaj_yogurt.png,ikincil,Süt Yağı % 4.0 Protein % 4.0,False,False,0.875
+448,tr_soru,sahne_24_ambalaj_yogurt.png,ikincil,Tam Yağlı Yoğurt,False,False,0.688
+448,tr_soru,sahne_24_ambalaj_yogurt.png,ikincil,500 g,False,False,0.8
+448,tr_soru,sahne_24_ambalaj_yogurt.png,ikincil,Doğal Yoğurt,False,False,0.583
+448,tr_soru,sahne_24_ambalaj_yogurt.png,ikincil,Hikayeyi Keşfet,False,False,0.867
+448,en_soru,sahne_24_ambalaj_yogurt.png,ana,Yoğurt,False,True,0.167
+448,en_soru,sahne_24_ambalaj_yogurt.png,ikincil,DOST,False,False,0.75
+448,en_soru,sahne_24_ambalaj_yogurt.png,ikincil,Süt Yağı % 4.0 Protein % 4.0,False,False,0.875
+448,en_soru,sahne_24_ambalaj_yogurt.png,ikincil,Tam Yağlı Yoğurt,False,False,0.688
+448,en_soru,sahne_24_ambalaj_yogurt.png,ikincil,500 g,False,False,0.8
+448,en_soru,sahne_24_ambalaj_yogurt.png,ikincil,Doğal Yoğurt,False,False,0.583
+448,en_soru,sahne_24_ambalaj_yogurt.png,ikincil,Hikayeyi Keşfet,False,False,0.867
+448,ocr,sahne_25_cadir_kosku_ahsap.png,ana,ÇADIR KÖŞKÜ,True,True,0.0
+448,ocr,sahne_25_cadir_kosku_ahsap.png,ikincil,İstanbul Büyükşehir Belediyesi,True,True,0.0
+448,tr_soru,sahne_25_cadir_kosku_ahsap.png,ana,ÇADIR KÖŞKÜ,False,False,1.0
+448,tr_soru,sahne_25_cadir_kosku_ahsap.png,ikincil,İstanbul Büyükşehir Belediyesi,False,False,0.9
+448,en_soru,sahne_25_cadir_kosku_ahsap.png,ana,ÇADIR KÖŞKÜ,False,True,0.364
+448,en_soru,sahne_25_cadir_kosku_ahsap.png,ikincil,İstanbul Büyükşehir Belediyesi,False,False,0.867
+448,ocr,sahne_26_yol_levhalari.png,ana,Anıttepe,False,True,0.125
+448,ocr,sahne_26_yol_levhalari.png,ana,Anıtkabir,False,True,0.111
+448,ocr,sahne_26_yol_levhalari.png,ana,Keçiören,True,True,0.0
+448,ocr,sahne_26_yol_levhalari.png,ana,Maltepe,True,True,0.0
+448,ocr,sahne_26_yol_levhalari.png,ana,Bahçelievler,True,True,0.0
+448,tr_soru,sahne_26_yol_levhalari.png,ana,Anıttepe,False,False,0.75
+448,tr_soru,sahne_26_yol_levhalari.png,ana,Anıtkabir,False,False,0.667
+448,tr_soru,sahne_26_yol_levhalari.png,ana,Keçiören,False,False,0.75
+448,tr_soru,sahne_26_yol_levhalari.png,ana,Maltepe,False,False,0.714
+448,tr_soru,sahne_26_yol_levhalari.png,ana,Bahçelievler,False,False,0.833
+448,en_soru,sahne_26_yol_levhalari.png,ana,Anıttepe,False,False,0.75
+448,en_soru,sahne_26_yol_levhalari.png,ana,Anıtkabir,False,False,0.667
+448,en_soru,sahne_26_yol_levhalari.png,ana,Keçiören,False,False,0.75
+448,en_soru,sahne_26_yol_levhalari.png,ana,Maltepe,False,False,0.714
+448,en_soru,sahne_26_yol_levhalari.png,ana,Bahçelievler,False,False,0.833
+448,ocr,sahne_27_fis_sok.png,ana,ŞOK MARKETLER TİC.A.Ş,False,True,0.095
+448,ocr,sahne_27_fis_sok.png,ana,TARİH : 01/02/2024,True,True,0.0
+448,ocr,sahne_27_fis_sok.png,ana,"TOPLAM *427,42",False,False,0.615
+448,ocr,sahne_27_fis_sok.png,ikincil,13462 MAMAK GAMZE ÖZDEMİR,False,False,0.08
+448,ocr,sahne_27_fis_sok.png,ikincil,ŞAHİNTEPE MH 637.SK,False,False,0.158
+448,ocr,sahne_27_fis_sok.png,ikincil,NO 2,True,True,0.0
+448,ocr,sahne_27_fis_sok.png,ikincil,MAMAK ANKARA,True,True,0.0
+448,ocr,sahne_27_fis_sok.png,ikincil,8140131899,True,True,0.0
+448,ocr,sahne_27_fis_sok.png,ikincil,ANADOLU KURUMLAR V.D,True,True,0.0
+448,ocr,sahne_27_fis_sok.png,ikincil,SAAT : 20:51:41,True,True,0.0
+448,ocr,sahne_27_fis_sok.png,ikincil,FİŞ NO : 0259,False,True,0.091
+448,ocr,sahne_27_fis_sok.png,ikincil,"OZMO FUN FİGÜRLÜ 23G %01 *13,50",False,True,0.103
+448,ocr,sahne_27_fis_sok.png,ikincil,"7-24 NAMET DANA MACA %01 *27,90",True,True,0.0
+448,ocr,sahne_27_fis_sok.png,ikincil,"OZMO FUN FİGÜRLÜ 23G %01 *13,50",False,True,0.103
+448,ocr,sahne_27_fis_sok.png,ikincil,"1,033Kg X 99,00",True,True,0.0
+448,ocr,sahne_27_fis_sok.png,ikincil,"TADPİ PİLİÇ BAGET KG %01 *102,27",False,True,0.033
+448,ocr,sahne_27_fis_sok.png,ikincil,"FINISH QUANTUM ÖZEL %20 *259,00",True,True,0.0
+448,ocr,sahne_27_fis_sok.png,ikincil,"25TLFINISH110TL *149,00-",False,False,0.045
+448,ocr,sahne_27_fis_sok.png,ikincil,"FINISH QUANTUM ÖZEL %20 *259,00",True,True,0.0
+448,ocr,sahne_27_fis_sok.png,ikincil,"25TLFINISH110TL *149,00-",False,False,0.045
+448,ocr,sahne_27_fis_sok.png,ikincil,"ARKO DEĞERLİ YAĞLAR %20 *104,50",False,False,0.621
+448,ocr,sahne_27_fis_sok.png,ikincil,"25TLARKO50TL *54,50-",False,False,0.556
+448,ocr,sahne_27_fis_sok.png,ikincil,"ALIŞVERİŞ POŞETİ 43 %20 *0,25",False,False,0.63
+448,ocr,sahne_27_fis_sok.png,ikincil,"TOPKDV *46,60",False,False,0.583
+448,tr_soru,sahne_27_fis_sok.png,ana,ŞOK MARKETLER TİC.A.Ş,False,False,0.619
+448,tr_soru,sahne_27_fis_sok.png,ana,TARİH : 01/02/2024,False,False,0.812
+448,tr_soru,sahne_27_fis_sok.png,ana,"TOPLAM *427,42",False,False,0.769
+448,tr_soru,sahne_27_fis_sok.png,ikincil,13462 MAMAK GAMZE ÖZDEMİR,False,False,0.72
+448,tr_soru,sahne_27_fis_sok.png,ikincil,ŞAHİNTEPE MH 637.SK,False,False,0.684
+448,tr_soru,sahne_27_fis_sok.png,ikincil,NO 2,False,False,0.5
+448,tr_soru,sahne_27_fis_sok.png,ikincil,MAMAK ANKARA,False,False,0.667
+448,tr_soru,sahne_27_fis_sok.png,ikincil,8140131899,False,False,1.0
+448,tr_soru,sahne_27_fis_sok.png,ikincil,ANADOLU KURUMLAR V.D,False,False,0.65
+448,tr_soru,sahne_27_fis_sok.png,ikincil,SAAT : 20:51:41,False,False,0.769
+448,tr_soru,sahne_27_fis_sok.png,ikincil,FİŞ NO : 0259,False,False,0.727
+448,tr_soru,sahne_27_fis_sok.png,ikincil,"OZMO FUN FİGÜRLÜ 23G %01 *13,50",False,False,0.759
+448,tr_soru,sahne_27_fis_sok.png,ikincil,"7-24 NAMET DANA MACA %01 *27,90",False,False,0.724
+448,tr_soru,sahne_27_fis_sok.png,ikincil,"OZMO FUN FİGÜRLÜ 23G %01 *13,50",False,False,0.759
+448,tr_soru,sahne_27_fis_sok.png,ikincil,"1,033Kg X 99,00",False,False,0.8
+448,tr_soru,sahne_27_fis_sok.png,ikincil,"TADPİ PİLİÇ BAGET KG %01 *102,27",False,False,0.733
+448,tr_soru,sahne_27_fis_sok.png,ikincil,"FINISH QUANTUM ÖZEL %20 *259,00",False,False,0.759
+448,tr_soru,sahne_27_fis_sok.png,ikincil,"25TLFINISH110TL *149,00-",False,False,0.818
+448,tr_soru,sahne_27_fis_sok.png,ikincil,"FINISH QUANTUM ÖZEL %20 *259,00",False,False,0.759
+448,tr_soru,sahne_27_fis_sok.png,ikincil,"25TLFINISH110TL *149,00-",False,False,0.818
+448,tr_soru,sahne_27_fis_sok.png,ikincil,"ARKO DEĞERLİ YAĞLAR %20 *104,50",False,False,0.724
+448,tr_soru,sahne_27_fis_sok.png,ikincil,"25TLARKO50TL *54,50-",False,False,0.778
+448,tr_soru,sahne_27_fis_sok.png,ikincil,"ALIŞVERİŞ POŞETİ 43 %20 *0,25",False,False,0.778
+448,tr_soru,sahne_27_fis_sok.png,ikincil,"TOPKDV *46,60",False,False,0.75
+448,en_soru,sahne_27_fis_sok.png,ana,ŞOK MARKETLER TİC.A.Ş,False,True,0.143
+448,en_soru,sahne_27_fis_sok.png,ana,TARİH : 01/02/2024,False,True,0.062
+448,en_soru,sahne_27_fis_sok.png,ana,"TOPLAM *427,42",False,False,0.615
+448,en_soru,sahne_27_fis_sok.png,ikincil,13462 MAMAK GAMZE ÖZDEMİR,False,False,0.12
+448,en_soru,sahne_27_fis_sok.png,ikincil,ŞAHİNTEPE MH 637.SK,False,False,0.158
+448,en_soru,sahne_27_fis_sok.png,ikincil,NO 2,True,True,0.0
+448,en_soru,sahne_27_fis_sok.png,ikincil,MAMAK ANKARA,True,True,0.0
+448,en_soru,sahne_27_fis_sok.png,ikincil,8140131899,True,True,0.0
+448,en_soru,sahne_27_fis_sok.png,ikincil,ANADOLU KURUMLAR V.D,True,True,0.0
+448,en_soru,sahne_27_fis_sok.png,ikincil,SAAT : 20:51:41,True,True,0.0
+448,en_soru,sahne_27_fis_sok.png,ikincil,FİŞ NO : 0259,False,True,0.091
+448,en_soru,sahne_27_fis_sok.png,ikincil,"OZMO FUN FİGÜRLÜ 23G %01 *13,50",False,True,0.103
+448,en_soru,sahne_27_fis_sok.png,ikincil,"7-24 NAMET DANA MACA %01 *27,90",True,True,0.0
+448,en_soru,sahne_27_fis_sok.png,ikincil,"OZMO FUN FİGÜRLÜ 23G %01 *13,50",False,True,0.103
+448,en_soru,sahne_27_fis_sok.png,ikincil,"1,033Kg X 99,00",True,True,0.0
+448,en_soru,sahne_27_fis_sok.png,ikincil,"TADPİ PİLİÇ BAGET KG %01 *102,27",False,True,0.033
+448,en_soru,sahne_27_fis_sok.png,ikincil,"FINISH QUANTUM ÖZEL %20 *259,00",True,True,0.0
+448,en_soru,sahne_27_fis_sok.png,ikincil,"25TLFINISH110TL *149,00-",False,False,0.045
+448,en_soru,sahne_27_fis_sok.png,ikincil,"FINISH QUANTUM ÖZEL %20 *259,00",True,True,0.0
+448,en_soru,sahne_27_fis_sok.png,ikincil,"25TLFINISH110TL *149,00-",False,False,0.045
+448,en_soru,sahne_27_fis_sok.png,ikincil,"ARKO DEĞERLİ YAĞLAR %20 *104,50",False,False,0.621
+448,en_soru,sahne_27_fis_sok.png,ikincil,"25TLARKO50TL *54,50-",False,False,0.556
+448,en_soru,sahne_27_fis_sok.png,ikincil,"ALIŞVERİŞ POŞETİ 43 %20 *0,25",False,False,0.63
+448,en_soru,sahne_27_fis_sok.png,ikincil,"TOPKDV *46,60",False,False,0.583
+448,ocr,sahne_28_fis_bim.png,ana,BİM BİRLEŞİK MAĞAZALAR A.Ş.,False,True,0.154
+448,ocr,sahne_28_fis_bim.png,ana,"TOPLAM *216,49",False,False,0.308
+448,ocr,sahne_28_fis_bim.png,ikincil,YUNUS MAH.KUBİLAY CAD.NO: 15/A,False,True,0.034
+448,ocr,sahne_28_fis_bim.png,ikincil,KARTAL / İSTANBUL,True,True,0.0
+448,ocr,sahne_28_fis_bim.png,ikincil,BÜYÜK MÜKELLEFLER VDB 1750051846,True,True,0.0
+448,ocr,sahne_28_fis_bim.png,ikincil,E-ARŞİV FATURA BİLGİ FİŞİ,False,True,0.04
+448,ocr,sahne_28_fis_bim.png,ikincil,"2.025 kg X 19,75",True,True,0.0
+448,ocr,sahne_28_fis_bim.png,ikincil,"PATATES %1 *39,99",False,False,0.067
+448,ocr,sahne_28_fis_bim.png,ikincil,"MERCİMEK YEŞİL 1 KG %1 *57,00",False,False,0.037
+448,ocr,sahne_28_fis_bim.png,ikincil,"NOHUT 2.5 KG SABAN %1 *119,50",False,False,0.037
+448,ocr,sahne_28_fis_bim.png,ikincil,"TOPKDV *2,14",False,False,0.273
+448,ocr,sahne_28_fis_bim.png,ikincil,"Banka Kredi Kartı 1 *216,49",True,True,0.0
+448,ocr,sahne_28_fis_bim.png,ikincil,GARANTİ BANKASI,True,True,0.0
+448,tr_soru,sahne_28_fis_bim.png,ana,BİM BİRLEŞİK MAĞAZALAR A.Ş.,False,False,0.538
+448,tr_soru,sahne_28_fis_bim.png,ana,"TOPLAM *216,49",False,False,0.692
+448,tr_soru,sahne_28_fis_bim.png,ikincil,YUNUS MAH.KUBİLAY CAD.NO: 15/A,False,False,0.69
+448,tr_soru,sahne_28_fis_bim.png,ikincil,KARTAL / İSTANBUL,False,False,0.667
+448,tr_soru,sahne_28_fis_bim.png,ikincil,BÜYÜK MÜKELLEFLER VDB 1750051846,False,False,0.656
+448,tr_soru,sahne_28_fis_bim.png,ikincil,E-ARŞİV FATURA BİLGİ FİŞİ,False,False,0.68
+448,tr_soru,sahne_28_fis_bim.png,ikincil,"2.025 kg X 19,75",False,False,0.812
+448,tr_soru,sahne_28_fis_bim.png,ikincil,"PATATES %1 *39,99",False,False,0.733
+448,tr_soru,sahne_28_fis_bim.png,ikincil,"MERCİMEK YEŞİL 1 KG %1 *57,00",False,False,0.741
+448,tr_soru,sahne_28_fis_bim.png,ikincil,"NOHUT 2.5 KG SABAN %1 *119,50",False,False,0.778
+448,tr_soru,sahne_28_fis_bim.png,ikincil,"TOPKDV *2,14",False,False,0.727
+448,tr_soru,sahne_28_fis_bim.png,ikincil,"Banka Kredi Kartı 1 *216,49",False,False,0.731
+448,tr_soru,sahne_28_fis_bim.png,ikincil,GARANTİ BANKASI,False,False,0.6
+448,en_soru,sahne_28_fis_bim.png,ana,BİM BİRLEŞİK MAĞAZALAR A.Ş.,False,False,0.154
+448,en_soru,sahne_28_fis_bim.png,ana,"TOPLAM *216,49",False,False,0.692
+448,en_soru,sahne_28_fis_bim.png,ikincil,YUNUS MAH.KUBİLAY CAD.NO: 15/A,False,False,0.724
+448,en_soru,sahne_28_fis_bim.png,ikincil,KARTAL / İSTANBUL,False,False,0.667
+448,en_soru,sahne_28_fis_bim.png,ikincil,BÜYÜK MÜKELLEFLER VDB 1750051846,False,False,0.781
+448,en_soru,sahne_28_fis_bim.png,ikincil,E-ARŞİV FATURA BİLGİ FİŞİ,False,False,0.72
+448,en_soru,sahne_28_fis_bim.png,ikincil,"2.025 kg X 19,75",False,False,0.875
+448,en_soru,sahne_28_fis_bim.png,ikincil,"PATATES %1 *39,99",False,False,0.733
+448,en_soru,sahne_28_fis_bim.png,ikincil,"MERCİMEK YEŞİL 1 KG %1 *57,00",False,False,0.778
+448,en_soru,sahne_28_fis_bim.png,ikincil,"NOHUT 2.5 KG SABAN %1 *119,50",False,False,0.778
+448,en_soru,sahne_28_fis_bim.png,ikincil,"TOPKDV *2,14",False,False,0.818
+448,en_soru,sahne_28_fis_bim.png,ikincil,"Banka Kredi Kartı 1 *216,49",False,False,0.769
+448,en_soru,sahne_28_fis_bim.png,ikincil,GARANTİ BANKASI,False,False,0.6
+448,ocr,sahne_29_tabelamatik_mockup.png,ana,Tabelamatik,True,True,0.0
+448,tr_soru,sahne_29_tabelamatik_mockup.png,ana,Tabelamatik,False,False,0.182
+448,en_soru,sahne_29_tabelamatik_mockup.png,ana,Tabelamatik,False,False,0.182
+448,ocr,sahne_30_dolu_levha.png,ana,DOLU,True,True,0.0
+448,ocr,sahne_30_dolu_levha.png,ikincil,02.01.0008,True,True,0.0
+448,ocr,sahne_30_dolu_levha.png,ikincil,TABELA.com.tr,False,False,0.077
+448,tr_soru,sahne_30_dolu_levha.png,ana,DOLU,True,True,0.0
+448,tr_soru,sahne_30_dolu_levha.png,ikincil,02.01.0008,False,False,1.0
+448,tr_soru,sahne_30_dolu_levha.png,ikincil,TABELA.com.tr,False,False,0.923
+448,en_soru,sahne_30_dolu_levha.png,ana,DOLU,True,True,0.0
+448,en_soru,sahne_30_dolu_levha.png,ikincil,02.01.0008,False,False,1.0
+448,en_soru,sahne_30_dolu_levha.png,ikincil,TABELA.com.tr,False,False,0.923
+448,ocr,sahne_31_elektrik_pano_plaka.png,ana,OSMANGAZİ ELEKTRİK DAĞITIM A.Ş.,True,True,0.0
+448,ocr,sahne_31_elektrik_pano_plaka.png,ikincil,26902319,True,True,0.0
+448,tr_soru,sahne_31_elektrik_pano_plaka.png,ana,OSMANGAZİ ELEKTRİK DAĞITIM A.Ş.,False,True,0.133
+448,tr_soru,sahne_31_elektrik_pano_plaka.png,ikincil,26902319,True,True,0.0
+448,en_soru,sahne_31_elektrik_pano_plaka.png,ana,OSMANGAZİ ELEKTRİK DAĞITIM A.Ş.,False,True,0.133
+448,en_soru,sahne_31_elektrik_pano_plaka.png,ikincil,26902319,False,False,1.0
+448,ocr,sahne_32_cop_konteyner_uyari.png,ana,SICAK KÜL ATMAYINIZ,False,True,0.105
+448,ocr,sahne_32_cop_konteyner_uyari.png,ikincil,5m,True,True,0.0
+448,ocr,sahne_32_cop_konteyner_uyari.png,ikincil,5m,True,True,0.0
+448,tr_soru,sahne_32_cop_konteyner_uyari.png,ana,SICAK KÜL ATMAYINIZ,False,False,0.895
+448,tr_soru,sahne_32_cop_konteyner_uyari.png,ikincil,5m,False,False,1.0
+448,tr_soru,sahne_32_cop_konteyner_uyari.png,ikincil,5m,False,False,1.0
+448,en_soru,sahne_32_cop_konteyner_uyari.png,ana,SICAK KÜL ATMAYINIZ,False,False,0.947
+448,en_soru,sahne_32_cop_konteyner_uyari.png,ikincil,5m,True,True,0.0
+448,en_soru,sahne_32_cop_konteyner_uyari.png,ikincil,5m,True,True,0.0
+448,ocr,sahne_33_dikkat_olum_tehlikesi.png,ana,DİKKAT! ÖLÜM TEHLİKESİ,True,True,0.0
+448,tr_soru,sahne_33_dikkat_olum_tehlikesi.png,ana,DİKKAT! ÖLÜM TEHLİKESİ,False,False,0.143
+448,en_soru,sahne_33_dikkat_olum_tehlikesi.png,ana,DİKKAT! ÖLÜM TEHLİKESİ,False,False,0.19
+448,ocr,sahne_34_kural_kiz_apart.png,ana,KURAL KIZ APART,True,True,0.0
+448,ocr,sahne_34_kural_kiz_apart.png,ikincil,KAYITLARIMIZ BAŞLAMIŞTIR,False,True,0.042
+448,tr_soru,sahne_34_kural_kiz_apart.png,ana,KURAL KIZ APART,False,True,0.067
+448,tr_soru,sahne_34_kural_kiz_apart.png,ikincil,KAYITLARIMIZ BAŞLAMIŞTIR,False,True,0.042
+448,en_soru,sahne_34_kural_kiz_apart.png,ana,KURAL KIZ APART,False,True,0.067
+448,en_soru,sahne_34_kural_kiz_apart.png,ikincil,KAYITLARIMIZ BAŞLAMIŞTIR,False,True,0.292

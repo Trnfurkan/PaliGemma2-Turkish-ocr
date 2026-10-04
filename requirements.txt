@@ -1,0 +1,6 @@
+transformers>=4.50
+accelerate
+torch
+pandas
+Pillow
+huggingface_hub
