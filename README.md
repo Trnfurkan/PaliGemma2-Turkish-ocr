@@ -65,8 +65,8 @@ Images and `manifest.csv` are not included in this repository (see [`data/README
 
 ## References
 
-- Beyer, L., Zhai, X., Steiner, A., Wang, X., Tschannen, M., & Houlsby, N. (2024). *PaliGemma 2: A Family of Versatile VLMs for Transfer*. arXiv:2412.03555.
-- Gemma Team, Google DeepMind. (2024). *Gemma 2: Improving Open Language Models at Scale*. arXiv:2408.00118.
+- Steiner, A., Pinto, A. S., Tschannen, M., Keysers, D., Wang, X., Bitton, Y., Gritsenko, A., Minderer, M., Sherbondy, A., Long, S., Qin, S., Ingle, R., Bugliarello, E., Kazemzadeh, S., Mesnard, T., Alabdulmohsin, I., Beyer, L., & Zhai, X. (2024). PaliGemma 2: A Family of Versatile VLMs for Transfer. arXiv:2412.03555.
+- Gemma Team, Google DeepMind. (2024). Gemma 2: Improving Open Language Models at a Practical Size arXiv:2408.00118.
 
 ## License
 
