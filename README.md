@@ -62,7 +62,10 @@ These hallucination and repetition observations are treated as additional qualit
 |       +-- sonuclar.csv             # Raw model outputs
 |       +-- skorlar_parca.csv        # Segment-level raw scores
 |       +-- ozet.csv                 # Type x resolution x prompt summary
+|       +-- hallucination.csv        # hallucination results
 +-- requirements.txt
++-- manifest.csv
++-- veriseti.zip
 +-- LICENSE
 +-- CITATION.cff
 +-- README.md
