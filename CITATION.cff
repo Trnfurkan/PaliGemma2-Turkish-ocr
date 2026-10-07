@@ -2,31 +2,61 @@ cff-version: 1.2.0
 message: "Bu depo aşağıdaki çalışmaları temel almaktadır."
 title: "PaliGemma 2 ile Türkçe Sahne Metni OCR Deneyi"
 type: dataset
+
 references:
-  - type: article
-    title: "PaliGemma 2: A Family of Versatile VLMs for Transfer"
-    authors:
-      - family-names: Beyer
-        given-names: L.
-      - family-names: Zhai
-        given-names: X.
-      - family-names: Steiner
-        given-names: A.
-      - family-names: Wang
-        given-names: X.
-      - family-names: Tschannen
-        given-names: M.
-      - family-names: Houlsby
-        given-names: N.
+
+* type: article
+  title: "PaliGemma 2: A Family of Versatile VLMs for Transfer"
+  authors:
+
+  * family-names: Steiner
+    given-names: A.
+  * family-names: Pinto
+    given-names: A. S.
+  * family-names: Tschannen
+    given-names: M.
+  * family-names: Keysers
+    given-names: D.
+  * family-names: Wang
+    given-names: X.
+  * family-names: Bitton
+    given-names: Y.
+  * family-names: Gritsenko
+    given-names: A.
+  * family-names: Minderer
+    given-names: M.
+  * family-names: Sherbondy
+    given-names: A.
+  * family-names: Long
+    given-names: S.
+  * family-names: Qin
+    given-names: S.
+  * family-names: Ingle
+    given-names: R.
+  * family-names: Bugliarello
+    given-names: E.
+  * family-names: Kazemzadeh
+    given-names: S.
+  * family-names: Mesnard
+    given-names: T.
+  * family-names: Alabdulmohsin
+    given-names: I.
+  * family-names: Beyer
+    given-names: L.
+  * family-names: Zhai
+    given-names: X.
     year: 2024
     identifiers:
-      - type: other
-        value: "arXiv:2412.03555"
-  - type: article
-    title: "Gemma 2: Improving Open Language Models at Scale"
-    authors:
-      - name: "Gemma Team, Google DeepMind"
+  * type: other
+    value: "arXiv:2412.03555"
+
+* type: article
+  title: "Gemma 2: Improving Open Language Models at a Practical Size"
+  authors:
+
+  * name: "Gemma Team, Google DeepMind"
     year: 2024
     identifiers:
-      - type: other
-        value: "arXiv:2408.00118"
+  * type: other
+    value: "arXiv:2408.00118"
+
