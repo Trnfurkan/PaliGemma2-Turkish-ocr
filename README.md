@@ -12,7 +12,7 @@ A small-scale experiment investigating how accurately the PaliGemma 2 (3B, `mix`
 ## Methodology (summary)
 
 * **Model:** `google/paligemma2-3b-mix-224` and `google/paligemma2-3b-mix-448` (Hugging Face, gated — requires access approval)
-* **Hardware:** Google Colab, T4 GPU; `float16` (since T4 does not support `bfloat16`; falls back to `float32` if output is empty/corrupted)
+* **Hardware:** Google Colab, T4 GPU; `float16` (T4 does not support `bfloat16`; the notebook uses `bfloat16` only on GPUs with compute capability 8.0 or higher)
 * **Dataset:** 30 scene images (signboards, receipts, packaging, warning signs, etc.) under varying font, light/reflection, and degradation conditions; includes hand-written and verified ground-truth text for each image
 * **Conditions:** 2 resolutions × 3 prompts = 6 conditions, with a total of 792 text-segment-condition measurements evaluated across 45 primary and 87 secondary text segments
 * **Metrics** (defined in `notebooks/paligemma2_ocr_deney_.ipynb`):
