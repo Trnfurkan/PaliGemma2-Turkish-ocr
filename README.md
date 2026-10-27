@@ -15,7 +15,7 @@ A small-scale experiment investigating how accurately the PaliGemma 2 (3B, `mix`
 * **Hardware:** Google Colab, T4 GPU; `float16` (since T4 does not support `bfloat16`; falls back to `float32` if output is empty/corrupted)
 * **Dataset:** 30 scene images (signboards, receipts, packaging, warning signs, etc.) under varying font, light/reflection, and degradation conditions; includes hand-written and verified ground-truth text for each image
 * **Conditions:** 2 resolutions × 3 prompts = 6 conditions, with a total of 792 text-segment-condition measurements evaluated across 45 primary and 87 secondary text segments
-* **Metrics** (defined in `notebooks/paligemma2_ocr_deney.ipynb`):
+* **Metrics** (defined in `notebooks/paligemma2_ocr_deney_.ipynb`):
 
   * `tam_bulundu`: whether the segment appears verbatim in the model output (ignoring case and punctuation, while preserving İ/I and ı/i distinctions)
   * `aksansiz_bulundu`: same check, but with Turkish accents (ç/ğ/ı/ö/ş/ü → c/g/i/o/s/u) simplified
@@ -56,7 +56,7 @@ These hallucination and repetition observations are treated as additional qualit
 ```text
 .
 +-- notebooks/
-|   +-- paligemma2_ocr_deney.ipynb   # Colab notebook: model execution + evaluation
+|   +-- paligemma2_ocr_deney_.ipynb  # Colab notebook: model execution + evaluation
 +-- data/
 |   +-- results/
 |       +-- sonuclar.csv             # Raw model outputs
@@ -65,7 +65,6 @@ These hallucination and repetition observations are treated as additional qualit
 |       +-- hallucination.csv        # hallucination results
 +-- requirements.txt
 +-- manifest.csv
-+-- veriseti.zip
 +-- LICENSE
 +-- CITATION.cff
 +-- README.md
@@ -73,7 +72,7 @@ These hallucination and repetition observations are treated as additional qualit
 
 ## How to run
 
-1. Open `notebooks/paligemma2_ocr_deney.ipynb` in Google Colab and set the runtime to T4 GPU.
+1. Open `notebooks/paligemma2_ocr_deney_.ipynb` in Google Colab and set the runtime to T4 GPU.
 2. Accept the terms on the `google/paligemma2-3b-mix-224` and `google/paligemma2-3b-mix-448` model pages on Hugging Face.
 3. Add your Hugging Face read token to Colab Secrets under the name `HF_TOKEN`.
 4. Upload `veriseti.zip` (images + `manifest.csv`) to Colab.
@@ -89,9 +88,9 @@ GPU is recommended.
 
 ## About the dataset
 
-The original image dataset is not included in this repository. The experiment uses 30 scene images together with manually prepared and verified ground-truth annotations.
+The original image dataset is not included in this repository. The experiment uses 30 scene images together with manually prepared and verified ground-truth annotations. `manifest.csv` contains 34 rows, but only the 30 images in the `ana` group were used in this experiment (`GROUPS = ["ana"]` in the notebook).
 
-The three CSV files under `data/results/` contain the model outputs and evaluation results generated from the dataset and can be used to inspect the reported results.
+The four CSV files under `data/results/` contain the model outputs and evaluation results generated from the dataset and can be used to inspect the reported results.
 
 ## Limitations
 
