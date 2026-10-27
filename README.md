@@ -75,7 +75,7 @@ These hallucination and repetition observations are treated as additional qualit
 1. Open `notebooks/paligemma2_ocr_deney_.ipynb` in Google Colab and set the runtime to T4 GPU.
 2. Accept the terms on the `google/paligemma2-3b-mix-224` and `google/paligemma2-3b-mix-448` model pages on Hugging Face.
 3. Add your Hugging Face read token to Colab Secrets under the name `HF_TOKEN`.
-4. Upload `veriseti.zip` (images + `manifest.csv`) to Colab.
+4. Download [`veriseti.zip`](https://github.com/Trnfurkan/PaliGemma2-Turkish-ocr/releases/download/v1.0/veriseti.zip) (images + `manifest.csv`) from the [v1.0 release](https://github.com/Trnfurkan/PaliGemma2-Turkish-ocr/releases/tag/v1.0) and upload it to Colab as `/content/veriseti/veriseti.zip`.
 5. Run the cells sequentially. Outputs will be saved as `sonuclar.csv`, `skorlar_parca.csv`, and `ozet.csv`.
 
 To run locally:
@@ -88,7 +88,7 @@ GPU is recommended.
 
 ## About the dataset
 
-The original image dataset is not included in this repository. The experiment uses 30 scene images together with manually prepared and verified ground-truth annotations. `manifest.csv` contains 34 rows, but only the 30 images in the `ana` group were used in this experiment (`GROUPS = ["ana"]` in the notebook).
+The image dataset is not stored in the repository itself; it is available as [`veriseti.zip`](https://github.com/Trnfurkan/PaliGemma2-Turkish-ocr/releases/download/v1.0/veriseti.zip) (~49 MB) in the [v1.0 release](https://github.com/Trnfurkan/PaliGemma2-Turkish-ocr/releases/tag/v1.0) and is provided for research and evaluation purposes only. The experiment uses 30 scene images together with manually prepared and verified ground-truth annotations. `manifest.csv` contains 34 rows, but only the 30 images in the `ana` group were used in this experiment (`GROUPS = ["ana"]` in the notebook).
 
 The four CSV files under `data/results/` contain the model outputs and evaluation results generated from the dataset and can be used to inspect the reported results.
 
