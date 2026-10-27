@@ -1,8 +1,8 @@
 # Dataset
 
-The `veriseti/` folder (scene images + `manifest.csv`) is not included in this repository. The images may contain recognizable real places, products, or signs, and they are also kept separate because of their size.
+The dataset (scene images + `manifest.csv`) is not stored in the repository because of its size. Download it as [`veriseti.zip`](https://github.com/Trnfurkan/PaliGemma2-Turkish-ocr/releases/download/v1.0/veriseti.zip) (~49 MB) from the [v1.0 release](https://github.com/Trnfurkan/PaliGemma2-Turkish-ocr/releases/tag/v1.0). It is provided for research and evaluation purposes only; the images may contain recognizable real places, products, or signs.
 
-To run the notebook, `veriseti.zip` should have the following structure:
+`veriseti.zip` has the following structure (all 34 images in `manifest.csv`, each in `orijinal/`, `224/` and `448/`):
 
 ```
 veriseti/
